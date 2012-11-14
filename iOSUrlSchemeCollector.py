@@ -146,9 +146,11 @@ def process_ipas_in_list(file_list, fp, verbose):
     for file_name in file_list:
         result = process_ipa(file_name, verbose)
         if result and len(result["url_schemes"]) > 0:
+            result["url_schemes"].sort()
             results.append( result )
 
-    json.dump(results, fp, indent=2)
+    results.sort(key=lambda mapping:mapping["bundle_id"].upper())
+    json.dump(results, fp, indent=2, sort_keys=True)
 
 def process_ipas_in_dir(dir, fp, verbose):
     dir = os.path.expanduser(dir)
