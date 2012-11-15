@@ -1469,6 +1469,15 @@
     "url_schemes": [
       "dbnavigator"
     ], 
+    "version": "2.1.6"
+  }, 
+  {
+    "bundle_id": "com.deutschebahn.navigator", 
+    "item_id": 343555245, 
+    "name": "DB Navigator", 
+    "url_schemes": [
+      "dbnavigator"
+    ], 
     "version": "2.1.7"
   }, 
   {
@@ -1830,6 +1839,17 @@
     "bundle_id": "com.facebook.Facebook", 
     "item_id": 284882215, 
     "name": "Facebook", 
+    "url_schemes": [
+      "fb", 
+      "fbauth", 
+      "fbauth2"
+    ], 
+    "version": "4110.0"
+  }, 
+  {
+    "bundle_id": "com.facebook.Facebook", 
+    "item_id": 284882215, 
+    "name": "Facebook", 
     "short_version": "5.0.1", 
     "url_schemes": [
       "fb", 
@@ -2142,6 +2162,16 @@
       "dbapi-1"
     ], 
     "version": "1.4.5"
+  }, 
+  {
+    "bundle_id": "com.getdropbox.Dropbox", 
+    "item_id": 327630330, 
+    "name": "Dropbox", 
+    "short_version": "1.4.7", 
+    "url_schemes": [
+      "dbapi-1"
+    ], 
+    "version": "1.4.7"
   }, 
   {
     "bundle_id": "com.getdropbox.Dropbox", 
@@ -3652,6 +3682,18 @@
       "soundhound", 
       "soundhound-free"
     ], 
+    "version": "4.5"
+  }, 
+  {
+    "bundle_id": "com.melodis.soundhound.free", 
+    "item_id": 355554941, 
+    "name": "SoundHound", 
+    "url_schemes": [
+      "fb247047359503b", 
+      "midomi", 
+      "soundhound", 
+      "soundhound-free"
+    ], 
     "version": "5.0.1"
   }, 
   {
@@ -4966,6 +5008,16 @@
       "skype"
     ], 
     "version": "3.6.0.97"
+  }, 
+  {
+    "bundle_id": "com.skype.skype", 
+    "item_id": 304878510, 
+    "name": "Skype", 
+    "short_version": "3.7.40", 
+    "url_schemes": [
+      "skype"
+    ], 
+    "version": "3.7.0.40"
   }, 
   {
     "bundle_id": "com.skype.skype", 
@@ -6752,6 +6804,17 @@
       "textunes"
     ], 
     "version": "4.0"
+  }, 
+  {
+    "bundle_id": "eu.textunes.Reader", 
+    "item_id": 350742971, 
+    "name": "textunes eBooks", 
+    "short_version": "4.1", 
+    "url_schemes": [
+      "fb152693681454573", 
+      "textunes"
+    ], 
+    "version": "4.1"
   }, 
   {
     "bundle_id": "eu.textunes.Reader", 
