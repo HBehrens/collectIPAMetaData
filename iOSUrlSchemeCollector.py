@@ -149,7 +149,8 @@ def process_ipas_in_list(file_list, fp, verbose):
             result["url_schemes"].sort()
             results.append( result )
 
-    results.sort(key=lambda mapping:mapping["bundle_id"].upper())
+    results.sort(key=lambda bundle:("%s#%s" % (bundle["bundle_id"], bundle.get("version",""))).upper())
+
     json.dump(results, fp, indent=2, sort_keys=True)
 
 def process_ipas_in_dir(dir, fp, verbose):
