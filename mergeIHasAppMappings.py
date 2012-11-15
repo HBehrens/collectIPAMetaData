@@ -4,10 +4,21 @@ import json
 import sys
 import optparse
 
+def print_stats(mappings):
+    all_schemes = []
+    all_app_ids = []
+    for scheme, app_ids in mappings.items():
+        all_schemes.append(scheme)
+        all_app_ids.extend(app_ids)
+    all_app_ids = set(all_app_ids)
+
+    print "schemes: %d, apps: %d" % (len(all_schemes), len(all_app_ids))
+
 def loadMappings(filename):
+    print "loading %s" % filename
     mappings = json.load(open(filename, 'r'))
     if isinstance(mappings, dict):
-        return mappings
+        result = mappings
     else:
         result = {}
         for mapping in mappings:
@@ -15,17 +26,21 @@ def loadMappings(filename):
                 ids = result.get(scheme, [])
                 ids.append(mapping['item_id'])
                 result[scheme] = ids
-        return result
+
+    print_stats(result)
+    return result
 
 def mergeMappings(mappings_list):
+    print "merging %d mappings" % len(mappings_list)
     merged = {}
     for mappings in mappings_list:
         for scheme, ids in mappings.items():
-            merged_ids = merged.get(scheme, [])
-            merged_ids.extend(ids)
-            merged_ids = list(set(merged_ids))
-            merged_ids.sort()
-            merged[scheme] = merged_ids
+            if scheme != "":
+                merged_ids = merged.get(scheme, [])
+                merged_ids.extend(ids)
+                merged_ids = list(set(merged_ids))
+                merged_ids.sort()
+                merged[scheme] = merged_ids
     return merged
 
 def get_options():
@@ -41,16 +56,6 @@ def get_options():
 
     return args
 
-def print_stats(mappings):
-    all_schemes = []
-    all_app_ids = []
-    for scheme, app_ids in mappings.items():
-        all_schemes.append(scheme)
-        all_app_ids.extend(app_ids)
-    all_app_ids = set(all_app_ids)
-
-    print "schemes: %d, apps: %d" % (len(all_schemes), len(all_app_ids))
-
 def main():
     args = get_options()
 
@@ -60,7 +65,7 @@ def main():
     print_stats(merged)
 
     # sorted keys and line breaks at start, end and per scheme
-    s= json.dumps(merged, sort_keys=True).replace('],', '],\n').replace('{', '{\n').replace('}','\n}')
+    s= json.dumps(merged, sort_keys=True).replace('],', '],\n').replace('{', '{\n ').replace('}','\n}')
 
     fo = args[0].output_file
     if isinstance(fo, str):
