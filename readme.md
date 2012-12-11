@@ -43,7 +43,7 @@ To add new mappings in the `schemeApps.json` format of [iHasApp][iHasApp] use th
 
 ## Contributions
 
-This extractor and merger has been written by [Heiko Behrens](http://HeikoBehrens.net) ([twitter](http://twitter.com/hbehrens)) to derive meta data for the [OpenHandleURL.com][openHandleUrl], [BeamApp][BeamApp] and [iHasApp][iHasApp]. Parts of the plist logic is based on [https://github.com/apperian/iOS-checkIPA](https://github.com/apperian/iOS-checkIPA).
+This extractor and merger has been written by [Heiko Behrens](http://HeikoBehrens.net) ([twitter](http://twitter.com/hbehrens)) to derive meta data for the [OpenHandleURL.com][openHandleUrl], [BeamApp][BeamApp] and [iHasApp][iHasApp]. Parts of the plist logic is based on [iOS-checkIPA](https://github.com/apperian/iOS-checkIPA).
 
 [openHandleUrl]: http://handleOpenUrl.com
 [iHasApp]: https://github.com/danielamitay/iHasApp
