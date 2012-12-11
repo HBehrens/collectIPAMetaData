@@ -108,22 +108,30 @@ def process_ipa(ipa_filename, verbose = False):
             print('iTunesMetadata.plist')
             pprint(parse.itunes_meta_data)
 
+        plist_keys = [
+            'CFBundleIdentifier',
+            'CFBundleVersion',
+            'CFBundleShortVersionString',
+            'CFBundleExecutable',
+            'CFBundleDisplayName',
+            'DTPlatformVersion',
+            'MinimumOSVersion',
+            'UIDeviceFamily',
+            'UIRequiredDeviceCapabilities',
+            ]
+
+        plist_values = dict((k, parse.info_plist_data[k]) for k in plist_keys if k in parse.info_plist_data)
+
         url_schemes = []
         for url_type in parse.info_plist_data.get('CFBundleURLTypes', []):
             for url_scheme in url_type.get('CFBundleURLSchemes', []):
                 url_schemes.append(url_scheme)
 
-        result = {
-            'name': parse.itunes_meta_data['itemName'],
-            'item_id': parse.itunes_meta_data['itemId'],
-            'bundle_id': parse.itunes_meta_data['softwareVersionBundleId'],
-            'url_schemes': url_schemes
-        }
 
-        if parse.itunes_meta_data.has_key('bundleVersion'):
-            result['version'] = parse.itunes_meta_data['bundleVersion']
-        if parse.itunes_meta_data.has_key('bundleShortVersionString'):
-            result['short_version'] = parse.itunes_meta_data['bundleShortVersionString']
+        result = plist_values.copy()
+        result['url_schemes'] = url_schemes
+        result['item_id'] = parse.itunes_meta_data['itemId']
+        result['name'] = parse.itunes_meta_data['itemName']
 
         if verbose:
             pprint(result)
@@ -150,7 +158,7 @@ def process_ipas_in_list(file_list, verbose):
             result["url_schemes"].sort()
             results.append( result )
 
-    results.sort(key=lambda bundle:("%s#%s" % (bundle["bundle_id"], bundle.get("version",""))).upper())
+    results.sort(key=lambda bundle:("%s#%s" % (bundle["CFBundleIdentifier"], bundle.get("CFBundleVersion",""))).upper())
 
     return results
 

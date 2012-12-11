@@ -5,7 +5,7 @@ import sys
 import optparse
 
 def key_for_bundle(bundle, primary="item_id"):
-    return ("%s#%s" % (bundle[primary], bundle.get("version",""))).upper()
+    return ("%s#%s" % (bundle[primary], bundle.get("CFBundleVersion",""))).upper()
 
 
 def print_stats(bundles):
@@ -42,13 +42,13 @@ def mergeMappings(bundles_list):
                     if existing.get(key, None) != bundle.get(key, None):
                         print "inconsistency: %s has different value for key %s" % (bundle_key, key)
 
-                for key in ["bundle_id", "name", "url_schemes"]:
+                for key in ["CFBundleIdentifier", "name", "url_schemes"]:
                     sanityCheck("")
             else:
                 items[bundle_key] = bundle
 
     merged = items.values()
-    merged.sort(key=lambda bundle:key_for_bundle(bundle, "bundle_id"))
+    merged.sort(key=lambda bundle:("%s#%s" % (bundle["CFBundleIdentifier"], bundle.get("CFBundleVersion",""))).upper())
 
     print_stats(merged)
     return merged
