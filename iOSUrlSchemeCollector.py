@@ -10,6 +10,7 @@ import zipfile
 import plistlib
 import optparse
 import json
+from itertools import chain
 
 class ParseIPA(object):
     # ParseIPA is based on https://github.com/apperian/iOS-checkIPA
@@ -141,7 +142,7 @@ def process_ipa(ipa_filename, verbose = False):
         pprint(errors)
         return None
 
-def process_ipas_in_list(file_list, fp, verbose):
+def process_ipas_in_list(file_list, verbose):
     results = []
     for file_name in file_list:
         result = process_ipa(file_name, verbose)
@@ -151,38 +152,56 @@ def process_ipas_in_list(file_list, fp, verbose):
 
     results.sort(key=lambda bundle:("%s#%s" % (bundle["bundle_id"], bundle.get("version",""))).upper())
 
-    json.dump(results, fp, indent=2, sort_keys=True)
+    return results
 
-def process_ipas_in_dir(dir, fp, verbose):
+def ipas_in_dir(dir):
     dir = os.path.expanduser(dir)
     if not os.path.isdir(dir):
         print "%s is not a valid directory" % dir
         sys.exit(2)
 
-    process_ipas_in_list([os.path.join(dir, f) for f in os.listdir(dir) if re.match(r'.*\.ipa$', f)], fp, verbose)
+    return [os.path.join(dir, f) for f in os.listdir(dir) if re.match(r'.*\.ipa$', f)]
+    
+def ipas_in_dirs(dir_list, verbose = False):
+    if verbose:
+        print "collecting IPAs from %s" % "\n ".join(dir_list)
+    result = []
+    for dir in dir_list:
+        # don't use yield to get errors first
+        result = chain(result, ipas_in_dir(dir))
+        
+    return result
+
+IPA_DEFAULT_DIRS = [
+    '~/Music/iTunes/Mobile Applications',
+    '~/Music/iTunes/iTunes Media/Mobile Applications',
+]
 
 def get_options():
     optp = optparse.OptionParser(epilog='When omitting -i or -d arguments, all IPAs stored in iTunes will be scanned.')
 
-    optp.add_option('-i', '--ipafile', action='store', dest='input_file',
-        help='scan single IPA')
+    optp.add_option('-i', '--ipafile', action='append', dest='input_files',
+        help='scan given IPAs')
     optp.add_option('-o', '--outputfile', action='store', dest='output_file', default=sys.stdout,
         help='location to write the JSON to (default: stdout)')
-    default_dir = '~/Music/iTunes/Mobile Applications'
-    optp.add_option('-d', '--directory', action='store', dest='directory',
-        default=default_dir,
-        help='scan all IPAs in directory (default: %s)' % default_dir)
-
+    optp.add_option('-d', '--directory', action='append', dest='directories',
+        help='scan all IPAs in directories (default: %s)' % ",\n".join(IPA_DEFAULT_DIRS))
 
     optp.add_option('-v', '--verbose', action='store_true',
         dest='verbose', default=False,
         help='print data structures to stdout')
 
     opts_args = optp.parse_args()
-    return opts_args[0]
+
+    result = opts_args[0]
+    if not result.input_files and not result.directories:
+        result.directories = [dir for dir in IPA_DEFAULT_DIRS if os.path.isdir(os.path.expanduser(dir))]
+        return result, True
+
+    return result, False
 
 def main():
-    options = get_options()
+    options, uses_default_input = get_options()
 
     # Mac OS already should have the plutil command utility installed.
     # The following message is primarily for (Debian-based) Linux systems.
@@ -195,10 +214,17 @@ def main():
     if isinstance(options.output_file, str):
         options.output_file = open(options.output_file, 'w')
 
-    if options.input_file:
-        process_ipas_in_list([options.input_file], options.output_file, options.verbose)
+    if options.input_files:
+        ipa_list = options.input_files
     else:
-        process_ipas_in_dir(options.directory, options.output_file, options.verbose)
+        ipa_list = ipas_in_dirs(options.directories, options.verbose)
+
+    mappings = process_ipas_in_list(ipa_list, options.verbose)
+
+    if len(mappings) == 0 and uses_default_input:
+        print "Did not find any IPAs in default directories (%s).\nTry --help to see more options." % ", ".join(IPA_DEFAULT_DIRS)
+    else:
+        json.dump(mappings, options.output_file, indent=2, sort_keys=True)
 
 if __name__ == '__main__':
     main()
