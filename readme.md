@@ -17,7 +17,7 @@ The script tries to find IPAs in a set of default locations but can be asked to 
 If you want to merge your data with the one of this repository to __create a pull request__, use this command:
 
 ```
-./mergeIPAMetaData.py -o ipaMetaData.json ipaMetaData.json myMetaData.json
+./mergeIPAMetaData.py -o ipaMetaData.json myMetaData.json ipaMetaData.json
 ```
 
 Have a look at the statistics to see how much you added to the `ipaMetaData.json` in place, e.g.
