@@ -98,9 +98,17 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Trainyard EX", 
+    "CFBundleExecutable": "TrainyardExpress", 
     "CFBundleIdentifier": "ca.struct.trainyardExpress", 
     "CFBundleShortVersionString": "1.66", 
     "CFBundleVersion": "1.66", 
+    "DTPlatformVersion": "4.3", 
+    "MinimumOSVersion": "3.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
     "item_id": 348724199, 
     "name": "Trainyard Express", 
     "url_schemes": [
@@ -247,9 +255,16 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Highrise", 
+    "CFBundleExecutable": "Highrise", 
     "CFBundleIdentifier": "com.37signals.highrise", 
     "CFBundleShortVersionString": "1.0.16", 
     "CFBundleVersion": "1032", 
+    "DTPlatformVersion": "5.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
     "item_id": 363576301, 
     "name": "37signals Highrise", 
     "url_schemes": [
@@ -308,8 +323,15 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Wunderlist", 
+    "CFBundleExecutable": "Wunderlist", 
     "CFBundleIdentifier": "com.6wunderkinder.wunderlistmobile", 
     "CFBundleVersion": "1.2.0", 
+    "DTPlatformVersion": "4.2 Seed 2", 
+    "MinimumOSVersion": "3.1", 
+    "UIDeviceFamily": [
+      1
+    ], 
     "item_id": 406644151, 
     "name": "Wunderlist", 
     "url_schemes": [
@@ -596,6 +618,27 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Airbnb", 
+    "CFBundleExecutable": "Airbnb", 
+    "CFBundleIdentifier": "com.airbnb.app", 
+    "CFBundleShortVersionString": "2.4.0", 
+    "CFBundleVersion": "2.4.0", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "location-services"
+    ], 
+    "item_id": 401626263, 
+    "name": "Airbnb", 
+    "url_schemes": [
+      "airbnb", 
+      "fb138566025676"
+    ]
+  }, 
+  {
     "CFBundleIdentifier": "com.airme.airme", 
     "item_id": 284944731, 
     "name": "AirMe", 
@@ -831,6 +874,24 @@
     "MinimumOSVersion": "4.3", 
     "UIDeviceFamily": [
       1
+    ], 
+    "item_id": 348712880, 
+    "name": "Amazon Mobil", 
+    "url_schemes": [
+      "fb115829135094686"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Amazon", 
+    "CFBundleExecutable": "AmazonDE", 
+    "CFBundleIdentifier": "com.amazon.AmazonDE", 
+    "CFBundleShortVersionString": "2.3.2", 
+    "CFBundleVersion": "2.3.2", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
     ], 
     "item_id": 348712880, 
     "name": "Amazon Mobil", 
@@ -2020,6 +2081,32 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Twitter", 
+    "CFBundleExecutable": "Twitter", 
+    "CFBundleIdentifier": "com.atebits.Tweetie2", 
+    "CFBundleShortVersionString": "5.2", 
+    "CFBundleVersion": "5.2", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 333903271, 
+    "name": "Twitter", 
+    "url_schemes": [
+      "com.atebits.Tweetie2", 
+      "com.atebits.Tweetie2+2.0.0", 
+      "com.atebits.Tweetie2+2.1.0", 
+      "com.atebits.Tweetie2+2.1.1", 
+      "com.atebits.Tweetie2+3.0.0", 
+      "com.twitter.twitter-iphone", 
+      "com.twitter.twitter-iphone+1.0.0", 
+      "tweetie", 
+      "twitter"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Audible", 
     "CFBundleExecutable": "Audible", 
     "CFBundleIdentifier": "com.audible.iphone", 
@@ -2064,6 +2151,26 @@
     "url_schemes": [
       "audible", 
       "fb180771575336142"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Audible", 
+    "CFBundleExecutable": "Audible", 
+    "CFBundleIdentifier": "com.audible.iphone", 
+    "CFBundleShortVersionString": "1.9.2", 
+    "CFBundleVersion": "183", 
+    "DTPlatformVersion": "5.1", 
+    "MinimumOSVersion": "4.2.1", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 379693831, 
+    "name": "Audiobooks from Audible", 
+    "url_schemes": [
+      "audible", 
+      "fb102978293121214", 
+      "fb155712874444607", 
+      "fb177464209045698"
     ]
   }, 
   {
@@ -2349,9 +2456,16 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Bizzabo", 
+    "CFBundleExecutable": "bizzabo", 
     "CFBundleIdentifier": "com.bizzabo.bizzabo", 
     "CFBundleShortVersionString": "1.1.9", 
     "CFBundleVersion": "1.1.9", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
     "item_id": 408705047, 
     "name": "Bizzabo - Event Networking Made Easy", 
     "url_schemes": [
@@ -2492,9 +2606,34 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Bump", 
+    "CFBundleExecutable": "Bump", 
     "CFBundleIdentifier": "com.bumptechnologies.bump", 
     "CFBundleShortVersionString": "3.4.1", 
     "CFBundleVersion": "3.4.1", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 305479724, 
+    "name": "Bump", 
+    "url_schemes": [
+      "bumpapp", 
+      "fb110633906966"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Bump", 
+    "CFBundleExecutable": "Bump", 
+    "CFBundleIdentifier": "com.bumptechnologies.bump", 
+    "CFBundleShortVersionString": "3.5.0", 
+    "CFBundleVersion": "3.5.0", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
     "item_id": 305479724, 
     "name": "Bump", 
     "url_schemes": [
@@ -2508,6 +2647,25 @@
     "CFBundleIdentifier": "com.burbn.instagram", 
     "CFBundleShortVersionString": "3.1.2", 
     "CFBundleVersion": "3.1.2", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 389801252, 
+    "name": "Instagram", 
+    "url_schemes": [
+      "fb124024574287414", 
+      "fsq+kylm3gjcbtswk4rambrt4uyzq1dqcoc0n2hyjgcvbcbe54rj+post", 
+      "instagram"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Instagram", 
+    "CFBundleExecutable": "Instagram", 
+    "CFBundleIdentifier": "com.burbn.instagram", 
+    "CFBundleShortVersionString": "3.2.0", 
+    "CFBundleVersion": "3.2.0", 
     "DTPlatformVersion": "6.0", 
     "MinimumOSVersion": "4.3", 
     "UIDeviceFamily": [
@@ -2710,8 +2868,15 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Sudoku Grab", 
+    "CFBundleExecutable": "SudokuScraper", 
     "CFBundleIdentifier": "com.cmgresearch.SudokuGrab", 
     "CFBundleVersion": "1.7.7", 
+    "DTPlatformVersion": "4.2 Seed 2", 
+    "MinimumOSVersion": "4.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
     "item_id": 305614901, 
     "name": "Sudoku Grab", 
     "url_schemes": [
@@ -2832,9 +2997,17 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Slice It!", 
+    "CFBundleExecutable": "Divider", 
     "CFBundleIdentifier": "com.com2us.sliceit", 
     "CFBundleShortVersionString": "1.8.2", 
     "CFBundleVersion": "1.8.2", 
+    "DTPlatformVersion": "5.1", 
+    "MinimumOSVersion": "3.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
     "item_id": 388116298, 
     "name": "Slice It!", 
     "url_schemes": [
@@ -3239,9 +3412,17 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "TV", 
+    "CFBundleExecutable": "TV", 
     "CFBundleIdentifier": "com.daimler.mbtv", 
     "CFBundleShortVersionString": "1.1", 
     "CFBundleVersion": "1.1", 
+    "DTPlatformVersion": "5.1", 
+    "MinimumOSVersion": "4.2", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
     "item_id": 435675427, 
     "name": "Mercedes-Benz.tv", 
     "url_schemes": [
@@ -4136,8 +4317,15 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Catan", 
+    "CFBundleExecutable": "Catan", 
     "CFBundleIdentifier": "com.exozet.catan", 
     "CFBundleVersion": "3.0.0", 
+    "DTPlatformVersion": "5.1", 
+    "MinimumOSVersion": "3.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
     "item_id": 335029050, 
     "name": "Catan", 
     "url_schemes": [
@@ -5727,6 +5915,29 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Google Maps", 
+    "CFBundleExecutable": "Google Maps", 
+    "CFBundleIdentifier": "com.google.Maps", 
+    "CFBundleShortVersionString": "1.0.0", 
+    "CFBundleVersion": "1.0.0.3977", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.1", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7", 
+      "location-services", 
+      "opengles-2"
+    ], 
+    "item_id": 585027354, 
+    "name": "Google Maps", 
+    "url_schemes": [
+      "comgooglemaps", 
+      "googlemaps"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Translate", 
     "CFBundleExecutable": "Translate", 
     "CFBundleIdentifier": "com.google.Translate", 
@@ -6539,8 +6750,16 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Temple Run", 
+    "CFBundleExecutable": "TempleRun", 
     "CFBundleIdentifier": "com.imangi.templerun", 
     "CFBundleVersion": "1.6", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
     "item_id": 420009108, 
     "name": "Temple Run", 
     "url_schemes": [
@@ -6770,9 +6989,17 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Dictamus", 
+    "CFBundleExecutable": "Dictamus", 
     "CFBundleIdentifier": "com.jotomi.dictation.full", 
     "CFBundleShortVersionString": "10.0.4", 
     "CFBundleVersion": "1350315053", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.1", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
     "item_id": 305870342, 
     "name": "Dictamus - Dictate & Send", 
     "url_schemes": [
@@ -7029,9 +7256,20 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Looker", 
+    "CFBundleExecutable": "Looker", 
     "CFBundleIdentifier": "com.kogeto.Looker", 
     "CFBundleShortVersionString": "1.1.102", 
     "CFBundleVersion": "49835", 
+    "DTPlatformVersion": "5.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7", 
+      "opengles-2"
+    ], 
     "item_id": 465782176, 
     "name": "Looker", 
     "url_schemes": [
@@ -7353,8 +7591,15 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Wikipanion", 
+    "CFBundleExecutable": "Wikipanion", 
     "CFBundleIdentifier": "com.laya.osiris.wikipanion", 
     "CFBundleVersion": "1.7.8.1", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
     "item_id": 288349436, 
     "name": "Wikipanion", 
     "url_schemes": [
@@ -8084,8 +8329,16 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Mach Dice", 
+    "CFBundleExecutable": "MachDice", 
     "CFBundleIdentifier": "com.machwerx.MachDice", 
     "CFBundleVersion": "3.10", 
+    "DTPlatformVersion": "4.2 Seed 2", 
+    "MinimumOSVersion": "3.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
     "item_id": 287598627, 
     "name": "Mach Dice", 
     "url_schemes": [
@@ -8369,6 +8622,26 @@
   {
     "CFBundleIdentifier": "com.melodis.midomi", 
     "CFBundleVersion": "5.2", 
+    "item_id": 284972998, 
+    "name": "SoundHound \u221e", 
+    "url_schemes": [
+      "fb247047359503a", 
+      "midomi", 
+      "soundhound", 
+      "soundhound-infinity"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "SoundHound", 
+    "CFBundleExecutable": "midomi", 
+    "CFBundleIdentifier": "com.melodis.midomi", 
+    "CFBundleVersion": "5.2.1", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
     "item_id": 284972998, 
     "name": "SoundHound \u221e", 
     "url_schemes": [
@@ -9302,9 +9575,16 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Rolando", 
+    "CFBundleExecutable": "Rolando", 
     "CFBundleIdentifier": "com.ngmoco.rolando", 
     "CFBundleShortVersionString": "1.9", 
     "CFBundleVersion": "1.9", 
+    "DTPlatformVersion": "4.3", 
+    "MinimumOSVersion": "3.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
     "item_id": 299461156, 
     "name": "Rolando", 
     "url_schemes": [
@@ -10901,8 +11181,18 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Bad Piggies", 
+    "CFBundleExecutable": "BadPiggies", 
     "CFBundleIdentifier": "com.rovio.BadPiggies", 
     "CFBundleVersion": "1.1.0", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
     "item_id": 533451786, 
     "name": "Bad Piggies", 
     "url_schemes": [
@@ -11213,6 +11503,28 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Shazam", 
+    "CFBundleExecutable": "Shazam", 
+    "CFBundleIdentifier": "com.shazam.Shazam", 
+    "CFBundleShortVersionString": "5.5.0", 
+    "CFBundleVersion": "564", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "6.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 284993459, 
+    "name": "Shazam", 
+    "url_schemes": [
+      "com.shazam.Shazam", 
+      "fb210827375150free", 
+      "fb351282064925439free", 
+      "shazam", 
+      "shazamfree", 
+      "shazamimporttags"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Shopgate", 
     "CFBundleExecutable": "Shopgate", 
     "CFBundleIdentifier": "com.shopgategmbh.shopgate", 
@@ -11489,6 +11801,23 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Skype", 
+    "CFBundleExecutable": "Skype", 
+    "CFBundleIdentifier": "com.skype.skype", 
+    "CFBundleShortVersionString": "4.2.2604", 
+    "CFBundleVersion": "4.2.0.2604", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 304878510, 
+    "name": "Skype", 
+    "url_schemes": [
+      "skype"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Skype\u00a0WiFi", 
     "CFBundleExecutable": "SkypeWiFi", 
     "CFBundleIdentifier": "com.skype.SkypeAccessWiFi", 
@@ -11682,9 +12011,17 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Socialcast", 
+    "CFBundleExecutable": "Socialcast", 
     "CFBundleIdentifier": "com.socialcast.Socialcast", 
     "CFBundleShortVersionString": "2.9.2", 
     "CFBundleVersion": "2.9.2", 
+    "DTPlatformVersion": "5.1", 
+    "MinimumOSVersion": "4.2", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
     "item_id": 334178538, 
     "name": "Socialcast", 
     "url_schemes": [
@@ -11766,9 +12103,17 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "BubbleShootx", 
+    "CFBundleExecutable": "bubbleShootix", 
     "CFBundleIdentifier": "com.spookyhousestudios.bubbleshootix", 
     "CFBundleShortVersionString": "2.0.0", 
     "CFBundleVersion": "2.0.0", 
+    "DTPlatformVersion": "5.1", 
+    "MinimumOSVersion": "3.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
     "item_id": 440480260, 
     "name": "Bubble Shootix", 
     "url_schemes": [
@@ -11797,9 +12142,17 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Spotify", 
+    "CFBundleExecutable": "Spotify", 
     "CFBundleIdentifier": "com.spotify.client", 
     "CFBundleShortVersionString": "0.5.9", 
     "CFBundleVersion": "50900010", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
     "item_id": 324684580, 
     "name": "Spotify", 
     "url_schemes": [
@@ -11967,9 +12320,16 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Cocktails", 
+    "CFBundleExecutable": "Cocktails", 
     "CFBundleIdentifier": "com.swissDevelopment.icocktails", 
     "CFBundleShortVersionString": "4.0", 
     "CFBundleVersion": "4.0", 
+    "DTPlatformVersion": "5.1", 
+    "MinimumOSVersion": "4.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
     "item_id": 287329476, 
     "name": "Cocktails", 
     "url_schemes": [
@@ -12308,9 +12668,17 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "TED", 
+    "CFBundleExecutable": "TED", 
     "CFBundleIdentifier": "com.ted.TED", 
     "CFBundleShortVersionString": "1804", 
     "CFBundleVersion": "1932", 
+    "DTPlatformVersion": "5.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
     "item_id": 376183339, 
     "name": "TED", 
     "url_schemes": [
@@ -12968,6 +13336,22 @@
     ]
   }, 
   {
+    "CFBundleExecutable": "StarWalk", 
+    "CFBundleIdentifier": "com.vitotechnology.StarWalk", 
+    "CFBundleVersion": "6.1", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 295430577, 
+    "name": "Star Walk\u2122 - 5 Stars Astronomy Guide", 
+    "url_schemes": [
+      "fb118881298142408", 
+      "starwalk"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Vivino", 
     "CFBundleExecutable": "Vivino", 
     "CFBundleIdentifier": "com.vivino", 
@@ -12985,9 +13369,19 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "MarkNote", 
+    "CFBundleExecutable": "marknote", 
     "CFBundleIdentifier": "com.volcano.marknote", 
     "CFBundleShortVersionString": "1.1", 
     "CFBundleVersion": "1.1", 
+    "DTPlatformVersion": "5.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
     "item_id": 500538643, 
     "name": "MarkNote - Markdown editor with live preview", 
     "url_schemes": [
@@ -13614,8 +14008,20 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "MetalStorm", 
+    "CFBundleExecutable": "MetalStorm", 
     "CFBundleIdentifier": "com.z2live.modernAirCombat", 
     "CFBundleVersion": "4.2.0", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "gamekit", 
+      "accelerometer"
+    ], 
     "item_id": 425746946, 
     "name": "MetalStorm: Wingman", 
     "url_schemes": [
@@ -14038,9 +14444,16 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Mr. Reader", 
+    "CFBundleExecutable": "MrReader", 
     "CFBundleIdentifier": "de.curioustimes.mrreader", 
     "CFBundleShortVersionString": "1.8", 
     "CFBundleVersion": "1099", 
+    "DTPlatformVersion": "5.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      2
+    ], 
     "item_id": 412874834, 
     "name": "Mr. Reader", 
     "url_schemes": [
@@ -14492,9 +14905,17 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "kaufDA", 
+    "CFBundleExecutable": "KaufDA", 
     "CFBundleIdentifier": "de.kaufda.kaufda", 
     "CFBundleShortVersionString": "2.2.4", 
     "CFBundleVersion": "2.2.4", 
+    "DTPlatformVersion": "4.2 Seed 2", 
+    "MinimumOSVersion": "3.1", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
     "item_id": 365527345, 
     "name": "kaufDA Navigator", 
     "url_schemes": [
@@ -14555,9 +14976,40 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "komoot", 
+    "CFBundleExecutable": "komoot", 
+    "CFBundleIdentifier": "de.komoot.berlinbikeapp", 
+    "CFBundleShortVersionString": "4.4", 
+    "CFBundleVersion": "4.4", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7", 
+      "wifi", 
+      "location-services"
+    ], 
+    "item_id": 447374873, 
+    "name": "komoot - Navigation, Routenplaner und Karte f\u00fcr deine Wanderung, Fahrrad, Mountainbike, Rennrad und Outdoor Tour", 
+    "url_schemes": [
+      "fb216222385104691mainapp", 
+      "komoot", 
+      "komootBike"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "MeinProspekt", 
+    "CFBundleExecutable": "myProspekt", 
     "CFBundleIdentifier": "de.meinprospekt.meinprospektHeroApp", 
     "CFBundleShortVersionString": "3.03", 
     "CFBundleVersion": "1400", 
+    "DTPlatformVersion": "4.1 GM", 
+    "MinimumOSVersion": "3.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
     "item_id": 366280436, 
     "name": "meinprospekt.de 3.0", 
     "url_schemes": [
@@ -15311,8 +15763,15 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "NervSounds", 
+    "CFBundleExecutable": "NervSounds", 
     "CFBundleIdentifier": "jp.co.valup.NervSounds", 
     "CFBundleVersion": "1.91", 
+    "DTPlatformVersion": "4.2 Seed 2", 
+    "MinimumOSVersion": "4.1", 
+    "UIDeviceFamily": [
+      1
+    ], 
     "item_id": 294773556, 
     "name": "NervSounds", 
     "url_schemes": [
