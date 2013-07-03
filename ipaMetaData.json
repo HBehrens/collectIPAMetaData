@@ -239,6 +239,28 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Curiosity", 
+    "CFBundleExecutable": "curiosity", 
+    "CFBundleIdentifier": "com.22cans.curiosity", 
+    "CFBundleVersion": "1.1", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 557549271, 
+    "name": "Curiosity \u2013 what\u2019s inside the cube", 
+    "url_schemes": [
+      "fb142306952581646", 
+      "fb226676297438840", 
+      "fb342179245873301"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Highrise", 
     "CFBundleExecutable": "Highrise", 
     "CFBundleIdentifier": "com.37signals.highrise", 
@@ -288,6 +310,28 @@
       "dial", 
       "sip", 
       "voip"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "DotD", 
+    "CFBundleExecutable": "Dawn of the Dragons", 
+    "CFBundleIdentifier": "com.5thplanetgames.dotd", 
+    "CFBundleShortVersionString": "1.0.507", 
+    "CFBundleVersion": "1.0.507", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      "1"
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7", 
+      "opengles-2"
+    ], 
+    "item_id": 505037441, 
+    "name": "Dawn of the Dragons", 
+    "url_schemes": [
+      "dotdmobile", 
+      "fb435703879830252"
     ]
   }, 
   {
@@ -421,6 +465,69 @@
     "name": "ABC Player", 
     "url_schemes": [
       "abcplayer"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "AngryGran", 
+    "CFBundleExecutable": "AngryGran", 
+    "CFBundleIdentifier": "com.aceviral.angryGran", 
+    "CFBundleVersion": "1.0.8", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": {
+      "accelerometer": true, 
+      "opengles-1": true
+    }, 
+    "item_id": 481664999, 
+    "name": "Angry Gran", 
+    "url_schemes": [
+      "angryGran", 
+      "fb465550896794027"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "GranToss", 
+    "CFBundleExecutable": "GranToss", 
+    "CFBundleIdentifier": "com.aceviral.angrygrantoss1", 
+    "CFBundleShortVersionString": "1.2", 
+    "CFBundleVersion": "1.2", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": {
+      "accelerometer": true, 
+      "opengles-2": true
+    }, 
+    "item_id": 606199522, 
+    "name": "Angry Gran-Toss", 
+    "url_schemes": [
+      "fb171047326365665"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "TV Guide", 
+    "CFBundleExecutable": "TV Guide", 
+    "CFBundleIdentifier": "com.acrossair.tvguide", 
+    "CFBundleShortVersionString": "4.0", 
+    "CFBundleVersion": "4.0", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [], 
+    "item_id": 317212648, 
+    "name": "TVGuide.co.uk TV Guide", 
+    "url_schemes": [
+      "fb465760590168503"
     ]
   }, 
   {
@@ -900,6 +1007,43 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Amazon", 
+    "CFBundleExecutable": "AmazonUK", 
+    "CFBundleIdentifier": "com.amazon.AmazonUK", 
+    "CFBundleShortVersionString": "2.3.2", 
+    "CFBundleVersion": "2.3.2", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 335187483, 
+    "name": "Amazon Mobile", 
+    "url_schemes": [
+      "fb115829135094686"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Amazon", 
+    "CFBundleExecutable": "AmazonUK", 
+    "CFBundleIdentifier": "com.amazon.AmazonUK", 
+    "CFBundleShortVersionString": "2.5.0", 
+    "CFBundleVersion": "2.5.0", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 335187483, 
+    "name": "Amazon Mobile", 
+    "url_schemes": [
+      "com.amazon.mobile.shopping", 
+      "fb115829135094686"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Kindle", 
     "CFBundleExecutable": "Kindle", 
     "CFBundleIdentifier": "com.amazon.Lassen", 
@@ -1058,6 +1202,29 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Star Girl", 
+    "CFBundleExecutable": "StarGirl", 
+    "CFBundleIdentifier": "com.animocacollective.itunes.starGirlitalia", 
+    "CFBundleShortVersionString": "1.5.3", 
+    "CFBundleVersion": "1.5.3", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": {
+      "armv7": true, 
+      "opengles-1": true
+    }, 
+    "item_id": 640000793, 
+    "name": "Star Girl: Moda Italia", 
+    "url_schemes": [
+      "fb378718418858735italia", 
+      "starGirlitalia"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "SHOUTcast", 
     "CFBundleExecutable": "SHOUTcast", 
     "CFBundleIdentifier": "com.aol.shoutcast.mobile", 
@@ -1182,6 +1349,50 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Launch", 
+    "CFBundleExecutable": "Launch", 
+    "CFBundleIdentifier": "com.appcubby.launchpro", 
+    "CFBundleShortVersionString": "1.0.4", 
+    "CFBundleVersion": "1.0.4", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.1", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 532016360, 
+    "name": "Launch Center Pro", 
+    "url_schemes": [
+      "launchpro", 
+      "launchpro-brightness", 
+      "launchpro-dial", 
+      "launchpro-light", 
+      "launchpro-tweet"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Timer", 
+    "CFBundleExecutable": "Timer", 
+    "CFBundleIdentifier": "com.appcubby.timer", 
+    "CFBundleShortVersionString": "2.0.1", 
+    "CFBundleVersion": "2.0.1", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "6.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 507518845, 
+    "name": "@Timer", 
+    "url_schemes": [
+      "launchtimer"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "AirPort", 
     "CFBundleExecutable": "AirPort", 
     "CFBundleIdentifier": "com.apple.airport.mobileairportutility", 
@@ -1277,6 +1488,26 @@
     "CFBundleIdentifier": "com.apple.iBooks", 
     "CFBundleShortVersionString": "3.0.2", 
     "CFBundleVersion": "1258", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 364709193, 
+    "name": "iBooks", 
+    "url_schemes": [
+      "ibooks", 
+      "itms-books", 
+      "itms-bookss"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "iBooks", 
+    "CFBundleExecutable": "iBooks", 
+    "CFBundleIdentifier": "com.apple.iBooks", 
+    "CFBundleShortVersionString": "3.1", 
+    "CFBundleVersion": "1523", 
     "DTPlatformVersion": "6.0", 
     "MinimumOSVersion": "5.0", 
     "UIDeviceFamily": [
@@ -1468,6 +1699,25 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "iTunes U", 
+    "CFBundleExecutable": "iTunesU", 
+    "CFBundleIdentifier": "com.apple.itunesu", 
+    "CFBundleShortVersionString": "1.3.1", 
+    "CFBundleVersion": "744", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 490217893, 
+    "name": "iTunes U", 
+    "url_schemes": [
+      "itms-itunesu", 
+      "itms-itunesus"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "GarageBand", 
     "CFBundleExecutable": "MobileGarageBand", 
     "CFBundleIdentifier": "com.apple.mobilegarageband", 
@@ -1564,6 +1814,26 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Find Friends", 
+    "CFBundleExecutable": "FindMyFriends", 
+    "CFBundleIdentifier": "com.apple.mobileme.fmf1", 
+    "CFBundleShortVersionString": "2.1", 
+    "CFBundleVersion": "278", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 466122094, 
+    "name": "Find My Friends", 
+    "url_schemes": [
+      "findmyfriends", 
+      "fmf1", 
+      "grenada"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Podcasts", 
     "CFBundleExecutable": "Podcasts", 
     "CFBundleIdentifier": "com.apple.podcasts", 
@@ -1595,6 +1865,32 @@
     "CFBundleIdentifier": "com.apple.podcasts", 
     "CFBundleShortVersionString": "1.1.2", 
     "CFBundleVersion": "209", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.1", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 525463029, 
+    "name": "Podcasts", 
+    "url_schemes": [
+      "feed", 
+      "itms-pcast", 
+      "itms-pcasts", 
+      "itms-podcast", 
+      "itms-podcasts", 
+      "pcast"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Podcasts", 
+    "CFBundleExecutable": "Podcasts", 
+    "CFBundleIdentifier": "com.apple.podcasts", 
+    "CFBundleShortVersionString": "1.2.1", 
+    "CFBundleVersion": "331", 
     "DTPlatformVersion": "6.0", 
     "MinimumOSVersion": "5.1", 
     "UIDeviceFamily": [
@@ -1750,6 +2046,24 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Apple Store", 
+    "CFBundleExecutable": "Apple Store", 
+    "CFBundleIdentifier": "com.apple.store.Jolly", 
+    "CFBundleShortVersionString": "120222", 
+    "CFBundleVersion": "2.6", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 375380948, 
+    "name": "Apple Store", 
+    "url_schemes": [
+      "applestore", 
+      "applestore-sec"
+    ]
+  }, 
+  {
     "CFBundleIdentifier": "com.applidium.vlc", 
     "item_id": 390885556, 
     "name": "VLC Media Player", 
@@ -1780,6 +2094,40 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "app\u2022lab", 
+    "CFBundleExecutable": "applab.app", 
+    "CFBundleIdentifier": "com.appmobi.applab.app", 
+    "CFBundleVersion": "27.4.1.0", 
+    "DTPlatformVersion": "5.1", 
+    "MinimumOSVersion": "4.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 395691569, 
+    "name": "app\u2022lab", 
+    "url_schemes": [
+      "appmobitest"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "app\u2022lab", 
+    "CFBundleExecutable": "applab.app", 
+    "CFBundleIdentifier": "com.appmobi.applab.app", 
+    "CFBundleVersion": "75.4.1.0", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 395691569, 
+    "name": "app\u2022lab", 
+    "url_schemes": [
+      "appmobitest"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "appstream", 
     "CFBundleExecutable": "appstream", 
     "CFBundleIdentifier": "com.appsfire.appstream", 
@@ -1795,6 +2143,25 @@
       "appstream", 
       "fb184086568286161", 
       "getapps"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "AppTrailers", 
+    "CFBundleExecutable": "apptrailers", 
+    "CFBundleIdentifier": "com.apptrailers", 
+    "CFBundleShortVersionString": "3.8", 
+    "CFBundleVersion": "3.8", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 469489347, 
+    "name": "AppTrailers", 
+    "url_schemes": [
+      "ar.apptrailers", 
+      "fb410464295680267"
     ]
   }, 
   {
@@ -1847,6 +2214,56 @@
     "name": "Circus Atari", 
     "url_schemes": [
       "fb447090835314727"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Letterpress", 
+    "CFBundleExecutable": "Letterpress", 
+    "CFBundleIdentifier": "com.atebits.ios.Letterpress", 
+    "CFBundleShortVersionString": "1.2", 
+    "CFBundleVersion": "118", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7", 
+      "opengles-2", 
+      "gamekit"
+    ], 
+    "item_id": 526619424, 
+    "name": "Letterpress \u2013 Word Game", 
+    "url_schemes": [
+      "com.atebits.Letterpress", 
+      "com.atebits.ios.Letterpress", 
+      "letterpress"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Letterpress", 
+    "CFBundleExecutable": "Letterpress", 
+    "CFBundleIdentifier": "com.atebits.ios.Letterpress", 
+    "CFBundleShortVersionString": "1.4", 
+    "CFBundleVersion": "121", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7", 
+      "opengles-2", 
+      "gamekit"
+    ], 
+    "item_id": 526619424, 
+    "name": "Letterpress \u2013 Word Game", 
+    "url_schemes": [
+      "com.atebits.Letterpress", 
+      "com.atebits.ios.Letterpress", 
+      "letterpress"
     ]
   }, 
   {
@@ -2087,6 +2504,58 @@
     "CFBundleShortVersionString": "5.2", 
     "CFBundleVersion": "5.2", 
     "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 333903271, 
+    "name": "Twitter", 
+    "url_schemes": [
+      "com.atebits.Tweetie2", 
+      "com.atebits.Tweetie2+2.0.0", 
+      "com.atebits.Tweetie2+2.1.0", 
+      "com.atebits.Tweetie2+2.1.1", 
+      "com.atebits.Tweetie2+3.0.0", 
+      "com.twitter.twitter-iphone", 
+      "com.twitter.twitter-iphone+1.0.0", 
+      "tweetie", 
+      "twitter"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Twitter", 
+    "CFBundleExecutable": "Twitter", 
+    "CFBundleIdentifier": "com.atebits.Tweetie2", 
+    "CFBundleShortVersionString": "5.2.1", 
+    "CFBundleVersion": "5.2.1", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 333903271, 
+    "name": "Twitter", 
+    "url_schemes": [
+      "com.atebits.Tweetie2", 
+      "com.atebits.Tweetie2+2.0.0", 
+      "com.atebits.Tweetie2+2.1.0", 
+      "com.atebits.Tweetie2+2.1.1", 
+      "com.atebits.Tweetie2+3.0.0", 
+      "com.twitter.twitter-iphone", 
+      "com.twitter.twitter-iphone+1.0.0", 
+      "tweetie", 
+      "twitter"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Twitter", 
+    "CFBundleExecutable": "Twitter", 
+    "CFBundleIdentifier": "com.atebits.Tweetie2", 
+    "CFBundleShortVersionString": "5.7", 
+    "CFBundleVersion": "5.7", 
+    "DTPlatformVersion": "6.1", 
     "MinimumOSVersion": "5.0", 
     "UIDeviceFamily": [
       1, 
@@ -2403,6 +2872,29 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Action Movie", 
+    "CFBundleExecutable": "Action Movie", 
+    "CFBundleIdentifier": "com.badrobot.actionmoviefx", 
+    "CFBundleShortVersionString": "2.5.1", 
+    "CFBundleVersion": "2.5.1", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7", 
+      "video-camera", 
+      "opengles-2"
+    ], 
+    "item_id": 489321253, 
+    "name": "Action Movie FX", 
+    "url_schemes": [
+      "fb113174082133029"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "BBC iPlayer", 
     "CFBundleExecutable": "BBCGlobaliPlayer", 
     "CFBundleIdentifier": "com.bbc.iplayer.global", 
@@ -2436,6 +2928,44 @@
     "name": "BBC iPlayer (Global)", 
     "url_schemes": [
       "bbcgip"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "ShopSavvy", 
+    "CFBundleExecutable": "ShopSavvy", 
+    "CFBundleIdentifier": "com.biggu.shopsavvyapp", 
+    "CFBundleShortVersionString": "6.8.0", 
+    "CFBundleVersion": "6.8.0", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 338828953, 
+    "name": "ShopSavvy (Barcode Scanner and QR Code Reader)", 
+    "url_schemes": [
+      "fb134425833319154", 
+      "shopsavvy"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "ShopSavvy", 
+    "CFBundleExecutable": "ShopSavvy", 
+    "CFBundleIdentifier": "com.biggu.shopsavvyapp", 
+    "CFBundleShortVersionString": "7.3.0", 
+    "CFBundleVersion": "7.3.0", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "6.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 338828953, 
+    "name": "Shop Savvy (Barcode Scanner and QR Code Reader)", 
+    "url_schemes": [
+      "fb134425833319154", 
+      "shopsavvy"
     ]
   }, 
   {
@@ -2508,6 +3038,26 @@
     "name": "Bloomberg", 
     "url_schemes": [
       "fb148734631914928"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Booking.com", 
+    "CFBundleExecutable": "Booking.com", 
+    "CFBundleIdentifier": "com.booking.BookingApp", 
+    "CFBundleShortVersionString": "5.6", 
+    "CFBundleVersion": "5.6", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 367003839, 
+    "name": "Booking.com Hotel reservations for 310,000+ hotels", 
+    "url_schemes": [
+      "booking", 
+      "bookingApp", 
+      "fb210068525731476"
     ]
   }, 
   {
@@ -2585,6 +3135,40 @@
     "url_schemes": [
       "bk", 
       "bkite"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Football SC", 
+    "CFBundleExecutable": "footballengine", 
+    "CFBundleIdentifier": "com.bskyb.football", 
+    "CFBundleShortVersionString": "1.9", 
+    "CFBundleVersion": "83558", 
+    "DTPlatformVersion": "5.0", 
+    "MinimumOSVersion": "3.1", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 325185696, 
+    "name": "Sky Sports Live Football Score Centre", 
+    "url_schemes": [
+      "skyf"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Sky News", 
+    "CFBundleExecutable": "SkyNews", 
+    "CFBundleIdentifier": "com.bskyb.skynews", 
+    "CFBundleShortVersionString": "2.2.2", 
+    "CFBundleVersion": "137708", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.1", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 316391924, 
+    "name": "Sky News", 
+    "url_schemes": [
+      "fb122579461124719"
     ]
   }, 
   {
@@ -2773,6 +3357,28 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "TheLastDriver", 
+    "CFBundleExecutable": "plumplite", 
+    "CFBundleIdentifier": "com.chillingo.motorslayer", 
+    "CFBundleVersion": "1.30", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.2", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "opengles-2", 
+      "armv7"
+    ], 
+    "item_id": 518022424, 
+    "name": "The Last Driver", 
+    "url_schemes": [
+      "crystal-4656401385", 
+      "fb159383180864062"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "DuckDuckGo", 
     "CFBundleExecutable": "DDG", 
     "CFBundleIdentifier": "com.chssystems.DDG", 
@@ -2841,6 +3447,27 @@
     "name": "Angry Birds", 
     "url_schemes": [
       "crystal-46339"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Angry Birds", 
+    "CFBundleExecutable": "AngryBirdsClassic", 
+    "CFBundleIdentifier": "com.clickgamer.AngryBirds", 
+    "CFBundleShortVersionString": "3.2.0", 
+    "CFBundleVersion": "3.2.0", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "opengles-2", 
+      "armv7"
+    ], 
+    "item_id": 343200656, 
+    "name": "Angry Birds", 
+    "url_schemes": [
+      "angrybirds"
     ]
   }, 
   {
@@ -3191,6 +3818,23 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Overkill", 
+    "CFBundleExecutable": "Overkill", 
+    "CFBundleIdentifier": "com.craneballs.overkillgold", 
+    "CFBundleVersion": "2.3.5", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 421659813, 
+    "name": "Overkill", 
+    "url_schemes": [
+      "fb137249306334655"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Designer", 
     "CFBundleExecutable": "JSONDesigner", 
     "CFBundleIdentifier": "com.cribster.jsondesigner", 
@@ -3499,6 +4143,52 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Dermandar", 
+    "CFBundleExecutable": "Dermandar", 
+    "CFBundleIdentifier": "com.dermandar.DMD110531", 
+    "CFBundleShortVersionString": "2.6", 
+    "CFBundleVersion": "27", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7", 
+      "opengles-2", 
+      "still-camera"
+    ], 
+    "item_id": 441183050, 
+    "name": "DMD Panorama", 
+    "url_schemes": [
+      "fb246290217488"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Dermandar", 
+    "CFBundleExecutable": "Dermandar", 
+    "CFBundleIdentifier": "com.dermandar.DMD110531", 
+    "CFBundleShortVersionString": "3.1", 
+    "CFBundleVersion": "41", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7", 
+      "opengles-2", 
+      "still-camera"
+    ], 
+    "item_id": 441183050, 
+    "name": "DMD Panorama", 
+    "url_schemes": [
+      "fb246290217488"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "DBTickets", 
     "CFBundleExecutable": "DBTickets", 
     "CFBundleIdentifier": "com.deutschebahn.DBTickets", 
@@ -3651,6 +4341,42 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "FileApp Pro", 
+    "CFBundleExecutable": "FileApp Pro", 
+    "CFBundleIdentifier": "com.DigiDNA.FileAppPro", 
+    "CFBundleShortVersionString": "3.1.1", 
+    "CFBundleVersion": "2406", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 359580470, 
+    "name": "FileApp Pro", 
+    "url_schemes": [
+      "fileapp-pro"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "FileApp Pro", 
+    "CFBundleExecutable": "FileApp Pro", 
+    "CFBundleIdentifier": "com.DigiDNA.FileAppPro", 
+    "CFBundleShortVersionString": "3.2.1", 
+    "CFBundleVersion": "2578", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 359580470, 
+    "name": "FileApp Pro", 
+    "url_schemes": [
+      "fileapp-pro"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Kaching", 
     "CFBundleExecutable": "Kaching", 
     "CFBundleIdentifier": "com.digitalfuture.kaching", 
@@ -3660,6 +4386,27 @@
     "name": "The KaChing Button", 
     "url_schemes": [
       "kaching"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "PerryGameLite", 
+    "CFBundleExecutable": "PerryGameLite", 
+    "CFBundleIdentifier": "com.disney.PerryGameLite", 
+    "CFBundleVersion": "1.4.0", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 544099783, 
+    "name": "Where's My Perry? Free", 
+    "url_schemes": [
+      "WheresMyPerryLite", 
+      "fb110024032444757wmplite", 
+      "fb367376476656061wmplite", 
+      "perrygamelite", 
+      "wheresmyperrylite"
     ]
   }, 
   {
@@ -3734,6 +4481,26 @@
     "name": "TRON", 
     "url_schemes": [
       "TRON"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "wheresmysummer", 
+    "CFBundleExecutable": "wheresmysummer", 
+    "CFBundleIdentifier": "com.disney.wheresmysummer", 
+    "CFBundleVersion": "1.0", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "gyroscope"
+    ], 
+    "item_id": 618486569, 
+    "name": "Where\u2019s My Summer?", 
+    "url_schemes": [
+      "fb260960830715478wmslite"
     ]
   }, 
   {
@@ -3813,6 +4580,24 @@
     "name": "Dopplr \u2013 The Social Atlas", 
     "url_schemes": [
       "dopplr"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Zapper Scan", 
+    "CFBundleExecutable": "Zapper Scan", 
+    "CFBundleIdentifier": "com.droidla.zapper", 
+    "CFBundleShortVersionString": "1.2.1", 
+    "CFBundleVersion": "1.2.1", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 505847168, 
+    "name": "Zapper QR Code Scanner", 
+    "url_schemes": [
+      "fb192084704167906", 
+      "zapperscan"
     ]
   }, 
   {
@@ -4065,6 +4850,88 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "eBay", 
+    "CFBundleExecutable": "eBay", 
+    "CFBundleIdentifier": "com.ebay.iphone", 
+    "CFBundleShortVersionString": "2.7.0", 
+    "CFBundleVersion": "2.7.0", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 282614216, 
+    "name": "eBay", 
+    "url_schemes": [
+      "ADX1140", 
+      "ebay", 
+      "fb267453465127"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "eBay", 
+    "CFBundleExecutable": "eBay", 
+    "CFBundleIdentifier": "com.ebay.iphone", 
+    "CFBundleShortVersionString": "3.0.2", 
+    "CFBundleVersion": "3.0.2", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 282614216, 
+    "name": "eBay", 
+    "url_schemes": [
+      "ADX1140", 
+      "ebay", 
+      "fb267453465127"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "RedLaser", 
+    "CFBundleExecutable": "RedLaser", 
+    "CFBundleIdentifier": "com.ebay.redlaserproper", 
+    "CFBundleShortVersionString": "4.2.1", 
+    "CFBundleVersion": "4.2.1", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "still-camera"
+    ], 
+    "item_id": 474902001, 
+    "name": "RedLaser \u2013 Barcode Scanner, Shopping Assistant & QR Code Reader", 
+    "url_schemes": [
+      "fb177590518984931", 
+      "loyaltycard", 
+      "redlaser"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "RedLaser", 
+    "CFBundleExecutable": "RedLaser", 
+    "CFBundleIdentifier": "com.ebay.redlaserproper", 
+    "CFBundleShortVersionString": "4.4.1", 
+    "CFBundleVersion": "4.4.1", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "still-camera"
+    ], 
+    "item_id": 474902001, 
+    "name": "RedLaser \u2013 Barcode Scanner, Shopping Assistant & QR Code Reader", 
+    "url_schemes": [
+      "fb177590518984931", 
+      "loyaltycard", 
+      "redlaser"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Kleinanzeigen", 
     "CFBundleExecutable": "Kleinanzeigen", 
     "CFBundleIdentifier": "com.ebaykleinanzeigen.ebc", 
@@ -4122,6 +4989,42 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Appville", 
+    "CFBundleExecutable": "Appville", 
+    "CFBundleIdentifier": "com.emityme.appdesignmag", 
+    "CFBundleShortVersionString": "1.2", 
+    "CFBundleVersion": "1.2", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 538819928, 
+    "name": "App Ville", 
+    "url_schemes": [
+      "fb359849974083498"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Appville", 
+    "CFBundleExecutable": "Appville", 
+    "CFBundleIdentifier": "com.emityme.appdesignmag", 
+    "CFBundleShortVersionString": "1.3", 
+    "CFBundleVersion": "1.3", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 538819928, 
+    "name": "App Ville - iPhone and iPad Magazine for iOS Developers and Publishers", 
+    "url_schemes": [
+      "fb359849974083498"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Endomondo", 
     "CFBundleExecutable": "Endomondo", 
     "CFBundleIdentifier": "com.endomondo.Endomondo", 
@@ -4140,6 +5043,42 @@
     "name": "Endomondo Sports Tracker", 
     "url_schemes": [
       "fb202423869273endomondofree"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "ESPN Goals", 
+    "CFBundleExecutable": "ESPNGoals", 
+    "CFBundleIdentifier": "com.espn.espngoals", 
+    "CFBundleShortVersionString": "2.5", 
+    "CFBundleVersion": "2.5", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 385112425, 
+    "name": "ESPN Goals", 
+    "url_schemes": [
+      "ADX1139", 
+      "espngoals"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "ESPN Goals", 
+    "CFBundleExecutable": "ESPNGoals", 
+    "CFBundleIdentifier": "com.espn.espngoals", 
+    "CFBundleShortVersionString": "2.7", 
+    "CFBundleVersion": "2.7", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 385112425, 
+    "name": "ESPN Goals", 
+    "url_schemes": [
+      "ADX1139", 
+      "espngoals"
     ]
   }, 
   {
@@ -4333,6 +5272,72 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Expedia", 
+    "CFBundleExecutable": "ExpediaBookings", 
+    "CFBundleIdentifier": "com.expedia.booking", 
+    "CFBundleShortVersionString": "2.2", 
+    "CFBundleVersion": "2572", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 427916203, 
+    "name": "Expedia Hotels & Flights", 
+    "url_schemes": [
+      "ambExpediaHotelsiOS", 
+      "expediabookings", 
+      "expediaflights", 
+      "expediahotels", 
+      "fb131538103586818", 
+      "somoExpediaHotelsiOS"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Expedia", 
+    "CFBundleExecutable": "ExpediaBookings", 
+    "CFBundleIdentifier": "com.expedia.booking", 
+    "CFBundleShortVersionString": "3.1.1", 
+    "CFBundleVersion": "2604", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 427916203, 
+    "name": "Expedia Hotels & Flights", 
+    "url_schemes": [
+      "ADX11034EX", 
+      "expediabookings", 
+      "expediaflights", 
+      "expediahotels", 
+      "fb131538103586818"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "ETBM", 
+    "CFBundleExecutable": "ETBM", 
+    "CFBundleIdentifier": "com.FabrikStudio.ETBM", 
+    "CFBundleShortVersionString": "1.4", 
+    "CFBundleVersion": "1.4", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 493977429, 
+    "name": "ENDI Tank Battle Multiplayer", 
+    "url_schemes": [
+      "fb311846685614393"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "KLIK", 
     "CFBundleExecutable": "KLIK", 
     "CFBundleIdentifier": "com.face.KLIK", 
@@ -4348,6 +5353,29 @@
     "url_schemes": [
       "fb193207724035515", 
       "klik"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Facebook", 
+    "CFBundleExecutable": "Facebook", 
+    "CFBundleIdentifier": "com.facebook.Facebook", 
+    "CFBundleShortVersionString": "6.2", 
+    "CFBundleVersion": "228172", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 284882215, 
+    "name": "Facebook", 
+    "url_schemes": [
+      "fb", 
+      "fbapi20130214", 
+      "fbapi20130410", 
+      "fbauth", 
+      "fbauth2", 
+      "fblogin"
     ]
   }, 
   {
@@ -4453,6 +5481,72 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Facebook", 
+    "CFBundleExecutable": "Facebook", 
+    "CFBundleIdentifier": "com.facebook.Facebook", 
+    "CFBundleShortVersionString": "5.3", 
+    "CFBundleVersion": "89182", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 284882215, 
+    "name": "Facebook", 
+    "url_schemes": [
+      "fb", 
+      "fbauth", 
+      "fbauth2", 
+      "fblogin"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Camera\u2022", 
+    "CFBundleExecutable": "Snap", 
+    "CFBundleIdentifier": "com.facebook.Snap", 
+    "CFBundleShortVersionString": "1.1.2", 
+    "CFBundleVersion": "94783", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7", 
+      "opengles-2", 
+      "still-camera"
+    ], 
+    "item_id": 525898024, 
+    "name": "Facebook Camera", 
+    "url_schemes": [
+      "fb6628568379snap"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "MegaPhoto", 
+    "CFBundleExecutable": "MegaPhoto", 
+    "CFBundleIdentifier": "com.falstad.megaphotobooth", 
+    "CFBundleShortVersionString": "1.5.6", 
+    "CFBundleVersion": "1.5.6", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "video-camera", 
+      "opengles-2"
+    ], 
+    "item_id": 471883260, 
+    "name": "Mega Photo: 100 Free, Real-Time Camera Effects", 
+    "url_schemes": [
+      "cine471883260", 
+      "fb188758377865607"
+    ]
+  }, 
+  {
     "CFBundleIdentifier": "com.FDGMobileGamesGbR.ParachutePanicLite", 
     "item_id": 324846152, 
     "name": "Parachute Panic HD Lite", 
@@ -4478,6 +5572,26 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Hungry Shark", 
+    "CFBundleExecutable": "HungrySharkEvolution", 
+    "CFBundleIdentifier": "com.fgol.HungrySharkEvolution", 
+    "CFBundleVersion": "1.7.3", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 535500008, 
+    "name": "Hungry Shark Evolution", 
+    "url_schemes": [
+      "fb413003698745607"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Hungry Shark 1", 
     "CFBundleExecutable": "HungryShark", 
     "CFBundleIdentifier": "com.fgol.HungrySharkPart1HD", 
@@ -4491,6 +5605,27 @@
     "name": "Hungry Shark - Part 1 HD", 
     "url_schemes": [
       "f830b8eb-31c7-449a-89a7-31d5140beec6"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Shark Night", 
+    "CFBundleExecutable": "SharkNight", 
+    "CFBundleIdentifier": "com.fgol.sharknight", 
+    "CFBundleShortVersionString": "1.1.5", 
+    "CFBundleVersion": "1.1.5", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "gamekit"
+    ], 
+    "item_id": 454429226, 
+    "name": "Hungry Shark Night", 
+    "url_schemes": [
+      "bbc8bced-0657-48ae-9ad6-2d0691a07d33"
     ]
   }, 
   {
@@ -4755,6 +5890,26 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "ColorClick", 
+    "CFBundleExecutable": "ColorClick", 
+    "CFBundleIdentifier": "com.fluentmobile.colorclick", 
+    "CFBundleShortVersionString": "1.0.2", 
+    "CFBundleVersion": "1.0.2", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.1", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 641154709, 
+    "name": "Color Click", 
+    "url_schemes": [
+      "aso641154709"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Foodspotting", 
     "CFBundleExecutable": "foodspotting", 
     "CFBundleIdentifier": "com.foodspotting.iphone.lite", 
@@ -4935,6 +6090,78 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "GameBook", 
+    "CFBundleExecutable": "GameBook", 
+    "CFBundleIdentifier": "com.freedropinnovations.gamebookInter", 
+    "CFBundleVersion": "3.5.2", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 409307935, 
+    "name": "GameBook - Live Golf Scorecard", 
+    "url_schemes": [
+      "aso409307935", 
+      "fb167130369980659international", 
+      "fb167130369980659nordic"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Convert Units", 
+    "CFBundleExecutable": "ConvertUnits", 
+    "CFBundleIdentifier": "com.freetheapps.convert", 
+    "CFBundleShortVersionString": "5.0", 
+    "CFBundleVersion": "5.0", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 337224035, 
+    "name": "Convert Units for Free - #1 Unit Conversion App", 
+    "url_schemes": [
+      "ftaconvertunits"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Convert Units", 
+    "CFBundleExecutable": "ConvertUnits", 
+    "CFBundleIdentifier": "com.freetheapps.convert", 
+    "CFBundleShortVersionString": "5.1", 
+    "CFBundleVersion": "5.1", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 337224035, 
+    "name": "Convert Units for Free - #1 Unit Conversion App", 
+    "url_schemes": [
+      "ftaconvertunits"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Frequency", 
+    "CFBundleExecutable": "Frequency", 
+    "CFBundleIdentifier": "com.frequency.Frequency-com", 
+    "CFBundleShortVersionString": "2.1.1", 
+    "CFBundleVersion": "246", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 465034728, 
+    "name": "Frequency ~ Tune In, Watch Videos", 
+    "url_schemes": [
+      "fb219649940739", 
+      "fb357479995231", 
+      "frequency"
+    ]
+  }, 
+  {
     "CFBundleIdentifier": "com.Fringland.Fring", 
     "item_id": 290948830, 
     "name": "fring", 
@@ -4952,6 +6179,31 @@
     "name": "fring", 
     "url_schemes": [
       "fring"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Video Star", 
+    "CFBundleExecutable": "Video Star", 
+    "CFBundleIdentifier": "com.frontierdesign.videostar", 
+    "CFBundleShortVersionString": "2.2.1", 
+    "CFBundleVersion": "79", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "video-camera", 
+      "wifi", 
+      "opengles-2", 
+      "armv7"
+    ], 
+    "item_id": 438596432, 
+    "name": "Video Star", 
+    "url_schemes": [
+      "fb129388997140923", 
+      "videostar"
     ]
   }, 
   {
@@ -5007,6 +6259,27 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Kingdom Age", 
+    "CFBundleExecutable": "Kingdom Age", 
+    "CFBundleIdentifier": "com.funzio.kingdomage", 
+    "CFBundleShortVersionString": "1.9", 
+    "CFBundleVersion": "220", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 483011479, 
+    "name": "Kingdom Age", 
+    "url_schemes": [
+      "fb320940711309130", 
+      "greeapp57806", 
+      "greeso57806", 
+      "kingdomage"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Computer Arts", 
     "CFBundleExecutable": "folio", 
     "CFBundleIdentifier": "com.futurenet.computerartsmagazine", 
@@ -5047,6 +6320,97 @@
     "name": "Computer Arts: the graphic design magazine for illustrators and creative professionals", 
     "url_schemes": [
       "fb158467176716"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "MyCountry2020theOne", 
+    "CFBundleExecutable": "MyCountry2020theOne", 
+    "CFBundleIdentifier": "com.gameinsight.country2020", 
+    "CFBundleShortVersionString": "1.12", 
+    "CFBundleVersion": "84", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.1", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "opengles-2", 
+      "armv7", 
+      "front-facing-camera"
+    ], 
+    "item_id": 592380747, 
+    "name": "2020: My Country", 
+    "url_schemes": [
+      "ADX1330", 
+      "fb183709888408030country2020", 
+      "fb334547196665323ios", 
+      "mycountry2020"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "BIA2 Free+", 
+    "CFBundleExecutable": "BIA2Freemium", 
+    "CFBundleIdentifier": "com.gameloft.BIA2Freemium", 
+    "CFBundleVersion": "1.0.8", 
+    "DTPlatformVersion": "5.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7", 
+      "opengles-2"
+    ], 
+    "item_id": 440176142, 
+    "name": "Brothers In Arms\u00ae 2: Global Front Free+", 
+    "url_schemes": [
+      "bia2freemium", 
+      "fb120176898077068"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "blitz", 
+    "CFBundleExecutable": "blitz", 
+    "CFBundleIdentifier": "com.gameloft.blitz", 
+    "CFBundleVersion": "1.0.3", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7", 
+      "opengles-2", 
+      "gyroscope"
+    ], 
+    "item_id": 580175049, 
+    "name": "Blitz Brigade - Online multiplayer shooting action!", 
+    "url_schemes": [
+      "fb269609166474177", 
+      "wyx1178106066"
+    ]
+  }, 
+  {
+    "CFBundleExecutable": "GangStarFreemium", 
+    "CFBundleIdentifier": "com.gameloft.GangStarFreemium", 
+    "CFBundleVersion": "1.0.6", 
+    "DTPlatformVersion": "5.0", 
+    "MinimumOSVersion": "3.2", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7", 
+      "opengles-2"
+    ], 
+    "item_id": 443491512, 
+    "name": "Urban Crime", 
+    "url_schemes": [
+      "fb261203767255846ganf"
     ]
   }, 
   {
@@ -5091,6 +6455,27 @@
     "url_schemes": [
       "fb300142053349291mib", 
       "mib3"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Colony Attack", 
+    "CFBundleExecutable": "spacegame", 
+    "CFBundleIdentifier": "com.geekbeach.spacegame", 
+    "CFBundleVersion": "1.7.3", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 551555854, 
+    "name": "Colony Attack", 
+    "url_schemes": [
+      "com.prime31.GooglePlayServices", 
+      "fb176983942439048"
     ]
   }, 
   {
@@ -5196,6 +6581,47 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Dropbox", 
+    "CFBundleExecutable": "Dropbox", 
+    "CFBundleIdentifier": "com.getdropbox.Dropbox", 
+    "CFBundleShortVersionString": "2.0.2", 
+    "CFBundleVersion": "2.0.2", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 327630330, 
+    "name": "Dropbox", 
+    "url_schemes": [
+      "dbapi-1", 
+      "fb210019893730"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Dropbox", 
+    "CFBundleExecutable": "Dropbox", 
+    "CFBundleIdentifier": "com.getdropbox.Dropbox", 
+    "CFBundleShortVersionString": "2.3", 
+    "CFBundleVersion": "2.3", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 327630330, 
+    "name": "Dropbox", 
+    "url_schemes": [
+      "db-auth", 
+      "dbapi-1", 
+      "dbapi-2", 
+      "dbapi-3", 
+      "fb210019893730"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "FeedMeIt2", 
     "CFBundleExecutable": "FeedMeIt2", 
     "CFBundleIdentifier": "com.getlimed.feedmeitfree", 
@@ -5210,6 +6636,23 @@
     "name": "Feed Me It Free", 
     "url_schemes": [
       "fb112688718810552"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Gilt", 
+    "CFBundleExecutable": "Gilt-iPhone", 
+    "CFBundleIdentifier": "com.gilt.gilt", 
+    "CFBundleVersion": "3.5.0", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 331804452, 
+    "name": "Gilt on the Go", 
+    "url_schemes": [
+      "fb127732483908165", 
+      "gilt"
     ]
   }, 
   {
@@ -5236,6 +6679,27 @@
     "url_schemes": [
       "gilt", 
       "giltipad"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "BT Gangsta", 
+    "CFBundleExecutable": "brawler", 
+    "CFBundleIdentifier": "com.glu.brawler", 
+    "CFBundleVersion": "2.2.2", 
+    "DTPlatformVersion": "5.0", 
+    "MinimumOSVersion": "3.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "accelerometer", 
+      "opengles-1"
+    ], 
+    "item_id": 414651238, 
+    "name": "Big Time Gangsta", 
+    "url_schemes": [
+      "fb141633279236045"
     ]
   }, 
   {
@@ -5915,11 +7379,56 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "YouTube", 
+    "CFBundleExecutable": "YouTube", 
+    "CFBundleIdentifier": "com.google.ios.youtube", 
+    "CFBundleShortVersionString": "1.4.0", 
+    "CFBundleVersion": "1.4.0.6375", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "6.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 544007664, 
+    "name": "YouTube", 
+    "url_schemes": [
+      "vnd.youtube", 
+      "youtube"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Google Maps", 
     "CFBundleExecutable": "Google Maps", 
     "CFBundleIdentifier": "com.google.Maps", 
     "CFBundleShortVersionString": "1.0.0", 
     "CFBundleVersion": "1.0.0.3977", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.1", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7", 
+      "location-services", 
+      "opengles-2"
+    ], 
+    "item_id": 585027354, 
+    "name": "Google Maps", 
+    "url_schemes": [
+      "comgooglemaps", 
+      "googlemaps"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Google Maps", 
+    "CFBundleExecutable": "Google Maps", 
+    "CFBundleIdentifier": "com.google.Maps", 
+    "CFBundleShortVersionString": "1.1.6", 
+    "CFBundleVersion": "1.1.6.5479", 
     "DTPlatformVersion": "6.0", 
     "MinimumOSVersion": "5.1", 
     "UIDeviceFamily": [
@@ -6126,6 +7635,62 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "TVCatchup", 
+    "CFBundleExecutable": "TVCatchup", 
+    "CFBundleIdentifier": "com.gzero.filmon", 
+    "CFBundleShortVersionString": "2.61", 
+    "CFBundleVersion": "340", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 427900675, 
+    "name": "TVCatchup Live TV", 
+    "url_schemes": [
+      "tvc"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "TweetCaster", 
+    "CFBundleExecutable": "TweetCaster", 
+    "CFBundleIdentifier": "com.handmark.tweetcaster", 
+    "CFBundleVersion": "2.9", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 420792544, 
+    "name": "TweetCaster for Twitter", 
+    "url_schemes": [
+      "fb113562132018949", 
+      "pocketapp2695", 
+      "tweetcaster"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "TweetCaster", 
+    "CFBundleExecutable": "TweetCaster", 
+    "CFBundleIdentifier": "com.handmark.tweetcaster", 
+    "CFBundleVersion": "2.9.6.12926", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 420792544, 
+    "name": "TweetCaster for Twitter", 
+    "url_schemes": [
+      "fb113562132018949", 
+      "pocketapp2695", 
+      "tweetcaster"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Circle", 
     "CFBundleExecutable": "circle", 
     "CFBundleIdentifier": "com.hawthornelabs.circle", 
@@ -6140,6 +7705,29 @@
     "name": "Circle - Who's Around You", 
     "url_schemes": [
       "fb320142681344288"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Haypi Monster", 
+    "CFBundleExecutable": "Monster", 
+    "CFBundleIdentifier": "com.haypi.monster", 
+    "CFBundleShortVersionString": "1.4.1", 
+    "CFBundleVersion": "1.4.1", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": {
+      "accelerometer": true, 
+      "opengles-1": true
+    }, 
+    "item_id": 570154106, 
+    "name": "Haypi Monster", 
+    "url_schemes": [
+      "fb446591065415147", 
+      "sinaweibosso.2028098415"
     ]
   }, 
   {
@@ -6328,6 +7916,28 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Rivals at War", 
+    "CFBundleExecutable": "BinRivalsAtWar", 
+    "CFBundleIdentifier": "com.hotheadgames.ios.valor", 
+    "CFBundleVersion": "1.2", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "opengles-1", 
+      "armv7"
+    ], 
+    "item_id": 589599502, 
+    "name": "Rivals at War", 
+    "url_schemes": [
+      "fb103568456491884", 
+      "rivalsatwar"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "HRS Hotels", 
     "CFBundleExecutable": "HRS", 
     "CFBundleIdentifier": "com.hrs.app", 
@@ -6403,6 +8013,47 @@
     "name": "Hotel Suche HRS", 
     "url_schemes": [
       "fb156634794347335"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "HRS Hotels", 
+    "CFBundleExecutable": "HRS", 
+    "CFBundleIdentifier": "com.hrs.app", 
+    "CFBundleShortVersionString": "3.2.1", 
+    "CFBundleVersion": "8054", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 332193586, 
+    "name": "Hotel Suche HRS", 
+    "url_schemes": [
+      "com.hrs.app", 
+      "fb156634794347335"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Hotels Now", 
+    "CFBundleExecutable": "Hotels Now", 
+    "CFBundleIdentifier": "com.hrs.hotelsnow", 
+    "CFBundleShortVersionString": "2.0.1", 
+    "CFBundleVersion": "130", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 567071725, 
+    "name": "HOTELS NOW - Last Minute Hotel buchen", 
+    "url_schemes": [
+      "com.hotelsnow.app", 
+      "fb169881916468411", 
+      "fb470389319639438", 
+      "hotelsnowtrademob"
     ]
   }, 
   {
@@ -6638,6 +8289,49 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Pocket", 
+    "CFBundleExecutable": "ReadItLaterPro", 
+    "CFBundleIdentifier": "com.ideashower.ReadItLaterPro", 
+    "CFBundleShortVersionString": "4.2.6", 
+    "CFBundleVersion": "4.2.6", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 309601447, 
+    "name": "Pocket (Formerly Read It Later)", 
+    "url_schemes": [
+      "fb131450656879143", 
+      "pocket", 
+      "pocket-oauth-v1", 
+      "readitlater"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Pocket", 
+    "CFBundleExecutable": "ReadItLaterPro", 
+    "CFBundleIdentifier": "com.ideashower.ReadItLaterPro", 
+    "CFBundleShortVersionString": "4.5.2", 
+    "CFBundleVersion": "4.5.2", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 309601447, 
+    "name": "Pocket (Formerly Read It Later)", 
+    "url_schemes": [
+      "en-readitlater-5776", 
+      "fb131450656879143", 
+      "pocket", 
+      "pocket-oauth-v1", 
+      "readitlater"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Alarm Clock", 
     "CFBundleExecutable": "AlarmClockFree", 
     "CFBundleIdentifier": "com.ihandysoft.alarmclock", 
@@ -6767,6 +8461,26 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Temple Run 2", 
+    "CFBundleExecutable": "templerun2", 
+    "CFBundleIdentifier": "com.imangi.templerun2", 
+    "CFBundleVersion": "1.2.1", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.2", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 572395608, 
+    "name": "Temple Run 2", 
+    "url_schemes": [
+      "fb208082439215773"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "IMDb", 
     "CFBundleExecutable": "IMDb", 
     "CFBundleIdentifier": "com.imdb.imdb", 
@@ -6818,6 +8532,56 @@
     "CFBundleDisplayName": "IMDb", 
     "CFBundleExecutable": "IMDb", 
     "CFBundleIdentifier": "com.imdb.imdb", 
+    "CFBundleShortVersionString": "3.2.1", 
+    "CFBundleVersion": "3.0.1046.0", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "location-services", 
+      "wifi"
+    ], 
+    "item_id": 342792525, 
+    "name": "IMDb Movies & TV", 
+    "url_schemes": [
+      "fb127059960673829", 
+      "imdb", 
+      "imdb-0201", 
+      "imdb-0202"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "IMDb", 
+    "CFBundleExecutable": "IMDb", 
+    "CFBundleIdentifier": "com.imdb.imdb", 
+    "CFBundleShortVersionString": "3.0.1", 
+    "CFBundleVersion": "3.0.363.1", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "location-services", 
+      "wifi"
+    ], 
+    "item_id": 342792525, 
+    "name": "IMDb Movies & TV", 
+    "url_schemes": [
+      "fb127059960673829", 
+      "imdb", 
+      "imdb-0201", 
+      "imdb-0202"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "IMDb", 
+    "CFBundleExecutable": "IMDb", 
+    "CFBundleIdentifier": "com.imdb.imdb", 
     "CFBundleShortVersionString": "2.8", 
     "CFBundleVersion": "3.0.70.0", 
     "DTPlatformVersion": "6.0", 
@@ -6858,6 +8622,28 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Tribal Wars", 
+    "CFBundleExecutable": "DSApp", 
+    "CFBundleIdentifier": "com.innogames.tribalwars", 
+    "CFBundleShortVersionString": "1.8.1", 
+    "CFBundleVersion": "1035", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "gamekit"
+    ], 
+    "item_id": 435365767, 
+    "name": "Tribal Wars", 
+    "url_schemes": [
+      "fb283626988422290", 
+      "tribalwars"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Weave", 
     "CFBundleExecutable": "Weave", 
     "CFBundleIdentifier": "com.intuit.weaveapp", 
@@ -6873,6 +8659,42 @@
     "url_schemes": [
       "fb136093269806460", 
       "weave"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "vouchercloud", 
+    "CFBundleExecutable": "vouchercloud", 
+    "CFBundleIdentifier": "com.invitationdigital.vouchercloud", 
+    "CFBundleShortVersionString": "2.5.1", 
+    "CFBundleVersion": "2.5.1", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 340841861, 
+    "name": "vouchercloud", 
+    "url_schemes": [
+      "fb145358052178932", 
+      "vc"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "vouchercloud", 
+    "CFBundleExecutable": "vouchercloud", 
+    "CFBundleIdentifier": "com.invitationdigital.vouchercloud", 
+    "CFBundleShortVersionString": "2.6", 
+    "CFBundleVersion": "2.6", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 340841861, 
+    "name": "vouchercloud", 
+    "url_schemes": [
+      "fb145358052178932", 
+      "vc"
     ]
   }, 
   {
@@ -6912,6 +8734,101 @@
     "name": "iTunes - 12 Days of Christmas", 
     "url_schemes": [
       "fb177781878567"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Currency", 
+    "CFBundleExecutable": "Currency", 
+    "CFBundleIdentifier": "com.jeffreygrossman.currencyapp", 
+    "CFBundleVersion": "3.2", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 284220417, 
+    "name": "Currency", 
+    "url_schemes": [
+      "currency"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Flixster", 
+    "CFBundleExecutable": "Flixster", 
+    "CFBundleIdentifier": "com.jeffreygrossman.moviesapp", 
+    "CFBundleVersion": "5.91", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 284235722, 
+    "name": "Movies by Flixster, with Rotten Tomatoes", 
+    "url_schemes": [
+      "fb110356772396380", 
+      "fb16478767641", 
+      "fb2352444510", 
+      "fb2373897986", 
+      "fb2446021478", 
+      "fb2451978556", 
+      "fb2532675812", 
+      "fb2558160538", 
+      "fb55312797380", 
+      "fb5769273609", 
+      "fb87604592406", 
+      "flixster"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Flixster", 
+    "CFBundleExecutable": "Flixster", 
+    "CFBundleIdentifier": "com.jeffreygrossman.moviesapp", 
+    "CFBundleShortVersionString": "6.3", 
+    "CFBundleVersion": "6.3", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.1", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 284235722, 
+    "name": "Movies by Flixster, with Rotten Tomatoes", 
+    "url_schemes": [
+      "ADX11054", 
+      "com.jeffreygrossman.moviesapp", 
+      "fb110356772396380", 
+      "fb151853658307207", 
+      "fb16478767641", 
+      "fb2352444510", 
+      "fb2373897986", 
+      "fb2446021478", 
+      "fb2451978556", 
+      "fb2532675812", 
+      "fb2558160538", 
+      "fb55312797380", 
+      "fb5769273609", 
+      "fb87604592406", 
+      "flixster"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "StickWars", 
+    "CFBundleExecutable": "StickWars", 
+    "CFBundleIdentifier": "com.johnehartzog.stickwars-siege", 
+    "CFBundleVersion": "1.8.8", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 309527804, 
+    "name": "StickWars", 
+    "url_schemes": [
+      "stickwarsactivatechal", 
+      "stickwarstransferlitedata"
     ]
   }, 
   {
@@ -7004,6 +8921,49 @@
     "name": "Dictamus - Dictate & Send", 
     "url_schemes": [
       "dictamus"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Light", 
+    "CFBundleExecutable": "Light", 
+    "CFBundleIdentifier": "com.jzlabs.flashlightfree", 
+    "CFBundleShortVersionString": "2.1", 
+    "CFBundleVersion": "2.1", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 379753015, 
+    "name": "Light - LED Flashlight", 
+    "url_schemes": [
+      "lightapp"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "FF6 The Game", 
+    "CFBundleExecutable": "ff6", 
+    "CFBundleIdentifier": "com.kabam.ff6", 
+    "CFBundleVersion": "1.0.11575", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7", 
+      "gyroscope"
+    ], 
+    "item_id": 619375712, 
+    "name": "Fast & Furious 6: The Game", 
+    "url_schemes": [
+      "fb145130572313729", 
+      "fb180296902011536", 
+      "fb352930141483598"
     ]
   }, 
   {
@@ -7217,6 +9177,111 @@
     "name": "Battery Life Pro - All-IN-1", 
     "url_schemes": [
       "KDAN-IPHONE-BATTERYLIFEPRO"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Keek", 
+    "CFBundleExecutable": "Keek", 
+    "CFBundleIdentifier": "com.keek.keek", 
+    "CFBundleShortVersionString": "3.0.2", 
+    "CFBundleVersion": "3.0.2", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [], 
+    "item_id": 453298978, 
+    "name": "Keek", 
+    "url_schemes": [
+      "", 
+      "fb224476840903340", 
+      "keek", 
+      "rm168802com.keek.keek"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "PaintSparkles", 
+    "CFBundleExecutable": "PaintSparkles", 
+    "CFBundleIdentifier": "com.kidsgamesclub.PaintSparkles", 
+    "CFBundleShortVersionString": "5.1", 
+    "CFBundleVersion": "5.1.4", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": {
+      "accelerometer": true, 
+      "opengles-1": true
+    }, 
+    "item_id": 435539858, 
+    "name": "Paint Sparkles Draw - My First Coloring Book HD!", 
+    "url_schemes": [
+      "com.kidsgamesclub.PaintSparkles"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "PaintSparkle", 
+    "CFBundleExecutable": "example-book", 
+    "CFBundleIdentifier": "com.kidsgamesclub.PaintSparkles", 
+    "CFBundleShortVersionString": "5.2", 
+    "CFBundleVersion": "5.2.0", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 435539858, 
+    "name": "Paint Sparkles Draw - My First Coloring Book HD!", 
+    "url_schemes": [
+      "PaintSparkles"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Twinkle Star", 
+    "CFBundleExecutable": "Twinkle", 
+    "CFBundleIdentifier": "com.kidsgamesclub.twinkleSingAlong", 
+    "CFBundleShortVersionString": "3.0", 
+    "CFBundleVersion": "3.0", 
+    "DTPlatformVersion": "5.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": {
+      "accelerometer": true, 
+      "opengles-1": true
+    }, 
+    "item_id": 439929489, 
+    "name": "Twinkle Twinkle Little Star - interactive children\u2019s sing along and activity center : HD", 
+    "url_schemes": [
+      "com.kidsgamesclub.twinkleSingAlong"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Twinkle Star", 
+    "CFBundleExecutable": "Twinkle", 
+    "CFBundleIdentifier": "com.kidsgamesclub.twinkleSingAlong", 
+    "CFBundleShortVersionString": "3.1", 
+    "CFBundleVersion": "3.1.0", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": {
+      "accelerometer": true, 
+      "opengles-1": true
+    }, 
+    "item_id": 439929489, 
+    "name": "Twinkle Twinkle Little Star - interactive children\u2019s sing along and activity center : HD", 
+    "url_schemes": [
+      "com.kidsgamesclub.twinkleSingAlong"
     ]
   }, 
   {
@@ -7914,6 +9979,46 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Coin Dozer", 
+    "CFBundleExecutable": "CoinDozer", 
+    "CFBundleIdentifier": "com.leftover.CoinDozer", 
+    "CFBundleVersion": "10.9", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 372836496, 
+    "name": "Coin Dozer", 
+    "url_schemes": [
+      "CoinDozer", 
+      "fb350038898408737free"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Coin Dozer", 
+    "CFBundleExecutable": "CoinDozer", 
+    "CFBundleIdentifier": "com.leftover.CoinDozer", 
+    "CFBundleVersion": "11.3", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 372836496, 
+    "name": "Coin Dozer", 
+    "url_schemes": [
+      "CoinDozer", 
+      "fb350038898408737free"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Lemon", 
     "CFBundleExecutable": "Lemon", 
     "CFBundleIdentifier": "com.lemon.iphone", 
@@ -7926,6 +10031,24 @@
     ], 
     "item_id": 458730692, 
     "name": "Lemon.com Wallet", 
+    "url_schemes": [
+      "fb182180731908769", 
+      "lemonapp"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Lemon Wallet", 
+    "CFBundleExecutable": "Lemon Wallet", 
+    "CFBundleIdentifier": "com.lemon.iphone", 
+    "CFBundleShortVersionString": "7.2", 
+    "CFBundleVersion": "7.2", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "6.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 458730692, 
+    "name": "Lemon Wallet", 
     "url_schemes": [
       "fb182180731908769", 
       "lemonapp"
@@ -8346,6 +10469,42 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Bubble Blast 2", 
+    "CFBundleExecutable": "Bubble Blast 2", 
+    "CFBundleIdentifier": "com.magmamobile.game.ios.bubbleblast2", 
+    "CFBundleShortVersionString": "2.2.2", 
+    "CFBundleVersion": "2.2.2", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 493274935, 
+    "name": "Bubble Blast 2 !", 
+    "url_schemes": [
+      "fb200008663386426"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Bubble Blast Easter", 
+    "CFBundleExecutable": "Bubble Blast Easter", 
+    "CFBundleIdentifier": "com.magmamobile.game.ios.bubbleblasteaster", 
+    "CFBundleShortVersionString": "1.0.6", 
+    "CFBundleVersion": "1.0.6", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 505155498, 
+    "name": "Bubble Blast Easter", 
+    "url_schemes": [
+      "fb200008663386426"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Instapaper", 
     "CFBundleExecutable": "InstapaperPro", 
     "CFBundleIdentifier": "com.marcoarment.instapaperpro", 
@@ -8472,6 +10631,28 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Avengers", 
+    "CFBundleExecutable": "Avengers Alliance", 
+    "CFBundleIdentifier": "com.marvel.AvengersAlliance", 
+    "CFBundleShortVersionString": "2.0", 
+    "CFBundleVersion": "2.0", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "front-facing-camera"
+    ], 
+    "item_id": 603628470, 
+    "name": "Avengers Alliance", 
+    "url_schemes": [
+      "fb194577560619891", 
+      "marvelavengers"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Highlight", 
     "CFBundleExecutable": "NameTag", 
     "CFBundleIdentifier": "com.mathcamp.highlight", 
@@ -8491,6 +10672,43 @@
     "url_schemes": [
       "fb163753517022551", 
       "highlight"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "McDsFinder", 
+    "CFBundleExecutable": "BreezeApp", 
+    "CFBundleIdentifier": "com.mcdonaldsuk.mcd", 
+    "CFBundleVersion": "2.7", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 363559703, 
+    "name": "McDonald\u2019s UK", 
+    "url_schemes": [
+      "McDsFinder"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "McDonald's", 
+    "CFBundleExecutable": "McDonalds", 
+    "CFBundleIdentifier": "com.mcdonaldsuk.mcd", 
+    "CFBundleShortVersionString": "4.1.1", 
+    "CFBundleVersion": "4.1.1", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 363559703, 
+    "name": "McDonald\u2019s UK", 
+    "url_schemes": [
+      "fb470415946364103", 
+      "mcdonaldsUK"
     ]
   }, 
   {
@@ -8786,6 +11004,49 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Candy Crush", 
+    "CFBundleExecutable": "candycrushsaga", 
+    "CFBundleIdentifier": "com.midasplayer.apps.candycrushsaga", 
+    "CFBundleShortVersionString": "1.05", 
+    "CFBundleVersion": "1.05", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 553834731, 
+    "name": "Candy Crush Saga \u00ae", 
+    "url_schemes": [
+      "fb210831918949520"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Candy Crush", 
+    "CFBundleExecutable": "candycrushsaga", 
+    "CFBundleIdentifier": "com.midasplayer.apps.candycrushsaga", 
+    "CFBundleShortVersionString": "1.14.0", 
+    "CFBundleVersion": "1.14.0", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 553834731, 
+    "name": "Candy Crush Saga \u00ae", 
+    "url_schemes": [
+      "candycrush", 
+      "fb210831918949520"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Oink", 
     "CFBundleExecutable": "oink", 
     "CFBundleIdentifier": "com.milkinc.oink", 
@@ -8802,6 +11063,155 @@
       "fsSJJ0ODZJWRTZNT1EB0NCYDCO1A00MFWWJJITVUH5SLQYB4IT", 
       "oink", 
       "twp96ngiL1HS3MYauygYw"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "MinoMonsters", 
+    "CFBundleExecutable": "evetest", 
+    "CFBundleIdentifier": "com.minomonsters.eve", 
+    "CFBundleShortVersionString": "3.2.3", 
+    "CFBundleVersion": "1207", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": {
+      "armv7": true, 
+      "opengles-2": true
+    }, 
+    "item_id": 477750637, 
+    "name": "MinoMonsters", 
+    "url_schemes": [
+      "fb227170647355825", 
+      "mino"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "D.O.T.", 
+    "CFBundleExecutable": "DotWW", 
+    "CFBundleIdentifier": "com.mobage.ww.a1137.dotios", 
+    "CFBundleShortVersionString": "2.3.0", 
+    "CFBundleVersion": "230", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 577574041, 
+    "name": "D.O.T. Defender of Texel (RPG)", 
+    "url_schemes": [
+      "defenderoftexel", 
+      "dotios", 
+      "fb180566588646375dotios"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Motor World", 
+    "CFBundleExecutable": "motorworldcarfactoryios", 
+    "CFBundleIdentifier": "com.mobage.ww.a1171.motorworldcarfactoryios", 
+    "CFBundleShortVersionString": "1.433", 
+    "CFBundleVersion": "1.433", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": {
+      "accelerometer": true, 
+      "opengles-1": true
+    }, 
+    "item_id": 580666714, 
+    "name": "Motor World: Car Factory", 
+    "url_schemes": [
+      "fb180566588646375motorworldcarfactoryios", 
+      "fb323831387672790mobageversion"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Paddy Power", 
+    "CFBundleExecutable": "Paddy Power", 
+    "CFBundleIdentifier": "com.mobenga.paddypower", 
+    "CFBundleShortVersionString": "1.7.1", 
+    "CFBundleVersion": "1.7.1", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 382030091, 
+    "name": "Paddy Power Bet", 
+    "url_schemes": [
+      "fb415417205173936", 
+      "mobengasportsipaddlsuccess"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Paddy Power", 
+    "CFBundleExecutable": "Paddy Power", 
+    "CFBundleIdentifier": "com.mobenga.paddypower", 
+    "CFBundleShortVersionString": "1.8.1", 
+    "CFBundleVersion": "1.8.1", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 382030091, 
+    "name": "Paddy Power Bet", 
+    "url_schemes": [
+      "fb415417205173936", 
+      "mobengasportsipaddlsuccess"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "William Hill", 
+    "CFBundleExecutable": "William Hill", 
+    "CFBundleIdentifier": "com.mobenga.williamhill", 
+    "CFBundleShortVersionString": "3.1", 
+    "CFBundleVersion": "3.1", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv6"
+    ], 
+    "item_id": 465712788, 
+    "name": "William Hill", 
+    "url_schemes": [
+      "whmsb"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "FlightTrack", 
+    "CFBundleExecutable": "FlightTrackFree", 
+    "CFBundleIdentifier": "com.mobiata.FlightTrackFree", 
+    "CFBundleShortVersionString": "1.1", 
+    "CFBundleVersion": "44111", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 547837352, 
+    "name": "FlightTrack Free", 
+    "url_schemes": [
+      "fb351571348266154", 
+      "flighttrackfree", 
+      "moflighttrack"
     ]
   }, 
   {
@@ -8848,6 +11258,82 @@
     "name": "DailyArt - daily dose of fine art delivered to your phone!", 
     "url_schemes": [
       "fb205038646292413"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "aHomeIcon", 
+    "CFBundleExecutable": "ahomeicon", 
+    "CFBundleIdentifier": "com.mokten.ahomeicon", 
+    "CFBundleShortVersionString": "3.3", 
+    "CFBundleVersion": "3.3", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 417171558, 
+    "name": "aHomeIcon - Favorite Home Screen Icon", 
+    "url_schemes": [
+      "ahomeicon", 
+      "fb295532453807556"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "HotUKDealer", 
+    "CFBundleExecutable": "HotUKDealer", 
+    "CFBundleIdentifier": "com.moonboom.hotukdeal", 
+    "CFBundleShortVersionString": "2.12", 
+    "CFBundleVersion": "2.12", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 321915270, 
+    "name": "HotUKDealer", 
+    "url_schemes": [
+      "fb157942567550895"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "HotUKDealer", 
+    "CFBundleExecutable": "HotUKDealer", 
+    "CFBundleIdentifier": "com.moonboom.hotukdeal", 
+    "CFBundleShortVersionString": "2.13", 
+    "CFBundleVersion": "2.13", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 321915270, 
+    "name": "HotUKDealer", 
+    "url_schemes": [
+      "fb157942567550895"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "CamStar", 
+    "CFBundleExecutable": "CamStar", 
+    "CFBundleIdentifier": "com.mycamcom.mycam", 
+    "CFBundleShortVersionString": "1.6", 
+    "CFBundleVersion": "1.6", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "still-camera"
+    ], 
+    "item_id": 490974464, 
+    "name": "CamStar - Free Fun Live Photo Booth FX via Camera and Video for IG, FB, PS, Tumblr", 
+    "url_schemes": [
+      "fb167529136745081"
     ]
   }, 
   {
@@ -10019,6 +12505,23 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "WeQ4U", 
+    "CFBundleExecutable": "WeQ4U", 
+    "CFBundleIdentifier": "com.orderlysoftware.weq4u", 
+    "CFBundleShortVersionString": "1.4", 
+    "CFBundleVersion": "1.4", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 496211344, 
+    "name": "WeQ4U 0870 0800 0871 0844 0845 08", 
+    "url_schemes": [
+      "weq4u"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "iTranslate", 
     "CFBundleExecutable": "iTranslate", 
     "CFBundleIdentifier": "com.outerspaceapps.itranslate", 
@@ -10082,6 +12585,27 @@
     "url_schemes": [
       "fb102884676430461", 
       "o7talkingcat"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Prem League", 
+    "CFBundleExecutable": "PremierBacker", 
+    "CFBundleIdentifier": "com.paddypower.euro2012", 
+    "CFBundleShortVersionString": "2.4", 
+    "CFBundleVersion": "2.4", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 525969522, 
+    "name": "Paddy Power Premier League", 
+    "url_schemes": [
+      "fb248486018591865pp", 
+      "ppeuro2012"
     ]
   }, 
   {
@@ -10282,6 +12806,43 @@
       "fsq+lrfolez0g3zvki31ump5lhrj45o1b2myq1g5chsi4z0wivt2+post", 
       "path", 
       "path-auth"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Pearltrees", 
+    "CFBundleExecutable": "Pearltrees", 
+    "CFBundleIdentifier": "com.pearltrees.ipad.prod", 
+    "CFBundleShortVersionString": "1.3", 
+    "CFBundleVersion": "201306071806", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 463462134, 
+    "name": "Pearltrees", 
+    "url_schemes": [
+      "fb127679500628357", 
+      "pearltrees"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "MixBooth", 
+    "CFBundleExecutable": "MixBooth", 
+    "CFBundleIdentifier": "com.piviandco.mixbooth", 
+    "CFBundleVersion": "2.5", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 504181015, 
+    "name": "MixBooth", 
+    "url_schemes": [
+      "fb346354342097531", 
+      "mixbooth"
     ]
   }, 
   {
@@ -10610,6 +13171,22 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Quickoffice", 
+    "CFBundleExecutable": "QuickofficeConnect", 
+    "CFBundleIdentifier": "com.quickoffice.mobilefilesro", 
+    "CFBundleVersion": "4.1.0", 
+    "DTPlatformVersion": "4.3", 
+    "MinimumOSVersion": "4.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 304673686, 
+    "name": "Quickoffice Lite - view office documents for free", 
+    "url_schemes": [
+      "quickofficedoc"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Quora", 
     "CFBundleExecutable": "Quora", 
     "CFBundleIdentifier": "com.quora.app.mobile", 
@@ -10799,6 +13376,26 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Hockey Fight", 
+    "CFBundleExecutable": "hockeyfightlite", 
+    "CFBundleIdentifier": "com.ratrodstudio.hockeyfightlite", 
+    "CFBundleVersion": "1.62", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 447801378, 
+    "name": "Hockey Fight Lite", 
+    "url_schemes": [
+      "fb531747060182889"
+    ]
+  }, 
+  {
     "CFBundleIdentifier": "com.rdio.player", 
     "CFBundleVersion": "1.4.2", 
     "item_id": 335060889, 
@@ -10824,6 +13421,46 @@
     "name": "Rdio", 
     "url_schemes": [
       "rdio"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Clear", 
+    "CFBundleExecutable": "Clear", 
+    "CFBundleIdentifier": "com.realmacsoftware.clear", 
+    "CFBundleShortVersionString": "1.2", 
+    "CFBundleVersion": "132", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "6.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 493136154, 
+    "name": "Clear", 
+    "url_schemes": [
+      "clearapp"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Clear", 
+    "CFBundleExecutable": "Clear", 
+    "CFBundleIdentifier": "com.realmacsoftware.clear", 
+    "CFBundleShortVersionString": "1.2.2", 
+    "CFBundleVersion": "152", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "6.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 493136154, 
+    "name": "Clear", 
+    "url_schemes": [
+      "clearapp"
     ]
   }, 
   {
@@ -11102,6 +13739,28 @@
   }, 
   {
     "CFBundleDisplayName": "Angry Birds", 
+    "CFBundleExecutable": "AngryBirdsFriends", 
+    "CFBundleIdentifier": "com.rovio.angrybirdsfriends", 
+    "CFBundleShortVersionString": "1.0.2", 
+    "CFBundleVersion": "1.0.2", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "opengles-2", 
+      "armv7"
+    ], 
+    "item_id": 555936735, 
+    "name": "Angry Birds Friends", 
+    "url_schemes": [
+      "fb178222352279634"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Angry Birds", 
     "CFBundleExecutable": "AngryBirdsHDFree", 
     "CFBundleIdentifier": "com.rovio.angrybirdshdfree", 
     "CFBundleVersion": "1.1.0", 
@@ -11131,6 +13790,49 @@
     "url_schemes": [
       "angrybirds-hd-free", 
       "crystal-46339"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Angry Birds", 
+    "CFBundleExecutable": "AngryBirdsRio-iPhone", 
+    "CFBundleIdentifier": "com.rovio.angrybirdsrio", 
+    "CFBundleShortVersionString": "1.5.0", 
+    "CFBundleVersion": "1.5.0", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7", 
+      "opengles-2"
+    ], 
+    "item_id": 420635506, 
+    "name": "Angry Birds Rio", 
+    "url_schemes": [
+      "angrybirds-rio"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Angry Birds", 
+    "CFBundleExecutable": "AngryBirdsRio", 
+    "CFBundleIdentifier": "com.rovio.angrybirdsrio", 
+    "CFBundleShortVersionString": "1.6.2", 
+    "CFBundleVersion": "1.6.2", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "opengles-2", 
+      "armv7"
+    ], 
+    "item_id": 420635506, 
+    "name": "Angry Birds Rio", 
+    "url_schemes": [
+      "angry-birds", 
+      "angrybirds-rio"
     ]
   }, 
   {
@@ -11197,6 +13899,45 @@
     "name": "Bad Piggies", 
     "url_schemes": [
       "badpiggies"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Letter Free", 
+    "CFBundleExecutable": "letterbyletter", 
+    "CFBundleIdentifier": "com.rowshambow.letterbyletter.free", 
+    "CFBundleShortVersionString": "1.4.0", 
+    "CFBundleVersion": "1.4.0", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      "1", 
+      "2"
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7", 
+      "opengles-2"
+    ], 
+    "item_id": 572207781, 
+    "name": "Letter by Letter Free", 
+    "url_schemes": [
+      "fb432726326784312free"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Mouse Lite", 
+    "CFBundleExecutable": "Mouse Lite", 
+    "CFBundleIdentifier": "com.rpatechnology.airmousedemo", 
+    "CFBundleShortVersionString": "2.7.2", 
+    "CFBundleVersion": "2.7.2", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 356395556, 
+    "name": "Mobile Mouse (Remote/Mouse/Trackpad) FREE", 
+    "url_schemes": [
+      "mobilemouse"
     ]
   }, 
   {
@@ -11525,6 +14266,85 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Shazam", 
+    "CFBundleExecutable": "Shazam", 
+    "CFBundleIdentifier": "com.shazam.Shazam", 
+    "CFBundleShortVersionString": "5.5.2", 
+    "CFBundleVersion": "576", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "6.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 284993459, 
+    "name": "Shazam", 
+    "url_schemes": [
+      "com.shazam.Shazam", 
+      "fb210827375150free", 
+      "fb351282064925439free", 
+      "shazam", 
+      "shazamfree", 
+      "shazamimporttags"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Shazam", 
+    "CFBundleExecutable": "Shazam", 
+    "CFBundleIdentifier": "com.shazam.Shazam", 
+    "CFBundleShortVersionString": "6.1.0", 
+    "CFBundleVersion": "633", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "6.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 284993459, 
+    "name": "Shazam", 
+    "url_schemes": [
+      "com.shazam.Shazam", 
+      "fb210827375150free", 
+      "fb351282064925439free", 
+      "shazam", 
+      "shazamfree", 
+      "shazamimporttags"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Shell Motorist", 
+    "CFBundleExecutable": "ShellGlobal", 
+    "CFBundleIdentifier": "com.shell.sitibv.motorist", 
+    "CFBundleShortVersionString": "1.3.1", 
+    "CFBundleVersion": "1061", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 484782414, 
+    "name": "Shell Motorist", 
+    "url_schemes": [
+      "fb225175437542747"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Shell Motorist", 
+    "CFBundleExecutable": "ShellGlobal", 
+    "CFBundleIdentifier": "com.shell.sitibv.motorist", 
+    "CFBundleShortVersionString": "1.4.9", 
+    "CFBundleVersion": "1137", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 484782414, 
+    "name": "Shell Motorist", 
+    "url_schemes": [
+      "fb225175437542747"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Shopgate", 
     "CFBundleExecutable": "Shopgate", 
     "CFBundleIdentifier": "com.shopgategmbh.shopgate", 
@@ -11592,6 +14412,24 @@
     "url_schemes": [
       "fb318886981487860", 
       "shopgate"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Football", 
+    "CFBundleExecutable": "FKFF", 
+    "CFBundleIdentifier": "com.sidheinteractive.sif.FKSFree", 
+    "CFBundleShortVersionString": "1.9.2", 
+    "CFBundleVersion": "1.9.2", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 421764869, 
+    "name": "Flick Kick Football Kickoff", 
+    "url_schemes": [
+      "fb523484094340369"
     ]
   }, 
   {
@@ -11676,6 +14514,49 @@
     "name": "Chamonix", 
     "url_schemes": [
       "lumiplanm17"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "FileExplorer", 
+    "CFBundleExecutable": "FileExplorerFree", 
+    "CFBundleIdentifier": "com.skyjos.fileexplorerfree", 
+    "CFBundleShortVersionString": "2.2.1", 
+    "CFBundleVersion": "2.2.1", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 510282524, 
+    "name": "FileExplorer Free", 
+    "url_schemes": [
+      "db-fv45r0c3cll3edz"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "FileExplorer", 
+    "CFBundleExecutable": "FileExplorerFree", 
+    "CFBundleIdentifier": "com.skyjos.fileexplorerfree", 
+    "CFBundleShortVersionString": "2.3.3", 
+    "CFBundleVersion": "2.3.3", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 510282524, 
+    "name": "FileExplorer Free", 
+    "url_schemes": [
+      "db-fv45r0c3cll3edz", 
+      "fileexplorer2"
     ]
   }, 
   {
@@ -12029,6 +14910,27 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Megapolis", 
+    "CFBundleExecutable": "aCity", 
+    "CFBundleIdentifier": "com.socialquantum2.cityint", 
+    "CFBundleShortVersionString": "1.4.1262", 
+    "CFBundleVersion": "1.4.1262", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 580765736, 
+    "name": "Megapolis", 
+    "url_schemes": [
+      "ADX1281", 
+      "fb144035645761537", 
+      "fb150241438424387", 
+      "fb279791858746671"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Daedalus", 
     "CFBundleExecutable": "Daedalus", 
     "CFBundleIdentifier": "com.soulmen.dtouch", 
@@ -12119,6 +15021,48 @@
     "url_schemes": [
       "ba218662584862026", 
       "fbcom.spookyhousestudios.bubbleshootix"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "BubbleXplode", 
+    "CFBundleExecutable": "bubbles", 
+    "CFBundleIdentifier": "com.spookyhousetudios.bubbleexplode", 
+    "CFBundleShortVersionString": "2.0.1", 
+    "CFBundleVersion": "2.0.1", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 376098160, 
+    "name": "Bubble Explode", 
+    "url_schemes": [
+      "ba0b9645-3d4d-4632-b8f4-50d334583753", 
+      "com.spookyhousetudios.bubbleexplode", 
+      "fb122982364395978", 
+      "fbcom.spookyhousestudios.bubbleexplode"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "BubbleXplode", 
+    "CFBundleExecutable": "bubbles", 
+    "CFBundleIdentifier": "com.spookyhousetudios.bubbleexplode", 
+    "CFBundleShortVersionString": "2.1.1", 
+    "CFBundleVersion": "2.1.1", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 376098160, 
+    "name": "Bubble Explode", 
+    "url_schemes": [
+      "ba0b9645-3d4d-4632-b8f4-50d334583753", 
+      "com.spookyhousetudios.bubbleexplode", 
+      "fb122982364395978", 
+      "fbcom.spookyhousestudios.bubbleexplode"
     ]
   }, 
   {
@@ -12283,6 +15227,40 @@
     "name": "Stuck On Earth - Free World Travel Guide", 
     "url_schemes": [
       "soe"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Ranky", 
+    "CFBundleExecutable": "Ranky", 
+    "CFBundleIdentifier": "com.studiodalton.Ranky", 
+    "CFBundleShortVersionString": "1.0.2", 
+    "CFBundleVersion": "1.0.2", 
+    "DTPlatformVersion": "4.3", 
+    "MinimumOSVersion": "4.2", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 432237659, 
+    "name": "Ranky", 
+    "url_schemes": [
+      "ranky"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Ranky", 
+    "CFBundleExecutable": "Ranky", 
+    "CFBundleIdentifier": "com.studiodalton.Ranky", 
+    "CFBundleShortVersionString": "1.0.3", 
+    "CFBundleVersion": "1.0.3", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 432237659, 
+    "name": "Ranky", 
+    "url_schemes": [
+      "ranky"
     ]
   }, 
   {
@@ -12644,6 +15622,59 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Jewel Mania", 
+    "CFBundleExecutable": "JewelMania", 
+    "CFBundleIdentifier": "com.teamlava.jewel", 
+    "CFBundleShortVersionString": "1.1.7", 
+    "CFBundleVersion": "1.1.7", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 561326449, 
+    "name": "Jewel Mania\u2122", 
+    "url_schemes": [
+      "fb422623004442057pointszero", 
+      "teamlava-jewel"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "TeamViewer", 
+    "CFBundleExecutable": "TeamViewer", 
+    "CFBundleIdentifier": "com.teamviewer.teamviewer", 
+    "CFBundleShortVersionString": "8.0.10095", 
+    "CFBundleVersion": "10095", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 357069581, 
+    "name": "TeamViewer for Remote Control", 
+    "url_schemes": [
+      "teamviewer8"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "TeamViewer", 
+    "CFBundleExecutable": "TeamViewer", 
+    "CFBundleIdentifier": "com.teamviewer.teamviewer", 
+    "CFBundleShortVersionString": "8.0.9992", 
+    "CFBundleVersion": "9992", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 357069581, 
+    "name": "TeamViewer for Remote Control", 
+    "url_schemes": [
+      "teamviewer8"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "TED", 
     "CFBundleExecutable": "TED", 
     "CFBundleIdentifier": "com.ted.TED", 
@@ -12716,6 +15747,72 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Tesco", 
+    "CFBundleExecutable": "Tesco", 
+    "CFBundleIdentifier": "com.tesco.grocery", 
+    "CFBundleVersion": "6.2", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 389581236, 
+    "name": "Tesco", 
+    "url_schemes": [
+      "Tesco"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Tesco", 
+    "CFBundleExecutable": "Tesco", 
+    "CFBundleIdentifier": "com.tesco.grocery", 
+    "CFBundleVersion": "6.4", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 389581236, 
+    "name": "Tesco", 
+    "url_schemes": [
+      "Tesco"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Slide", 
+    "CFBundleExecutable": "Slide", 
+    "CFBundleIdentifier": "com.thefalcoinitiative.slidetounlock", 
+    "CFBundleShortVersionString": "2.2", 
+    "CFBundleVersion": "2.2", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 359315994, 
+    "name": "Slide \u25ba", 
+    "url_schemes": [
+      "slidetounlock"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Slide", 
+    "CFBundleExecutable": "Slide", 
+    "CFBundleIdentifier": "com.thefalcoinitiative.slidetounlock", 
+    "CFBundleShortVersionString": "2.2.1", 
+    "CFBundleVersion": "2.2.1", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 359315994, 
+    "name": "Slide \u25ba", 
+    "url_schemes": [
+      "slidetounlock"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "TNW Magazine", 
     "CFBundleExecutable": "thenextweb-com", 
     "CFBundleIdentifier": "com.thenextweb.tnwmagazine", 
@@ -12775,6 +15872,87 @@
     "name": "Aweditorium", 
     "url_schemes": [
       "fb137972432903284"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Trenches II", 
+    "CFBundleExecutable": "Trenches2Universal", 
+    "CFBundleIdentifier": "com.ThunderGameWorks.Trenches2", 
+    "CFBundleVersion": "1.2", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.1", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 593658634, 
+    "name": "Trenches II", 
+    "url_schemes": [
+      "ea44702", 
+      "ea844699", 
+      "fb221610214561340"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "HotUKDeals", 
+    "CFBundleExecutable": "hotukdeals", 
+    "CFBundleIdentifier": "com.tippingcanoeug.hotukdeals", 
+    "CFBundleShortVersionString": "1.21", 
+    "CFBundleVersion": "1.21", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 570702323, 
+    "name": "HotUKDeals Official", 
+    "url_schemes": [
+      "fb132925916739223"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "HotUKDeals", 
+    "CFBundleExecutable": "hotukdeals", 
+    "CFBundleIdentifier": "com.tippingcanoeug.hotukdeals", 
+    "CFBundleShortVersionString": "1.24", 
+    "CFBundleVersion": "1.24", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 570702323, 
+    "name": "HotUKDeals Official", 
+    "url_schemes": [
+      "fb132925916739223"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "RacePenguin", 
+    "CFBundleExecutable": "PenguinWings", 
+    "CFBundleIdentifier": "com.topfreegames.racingpenguinfree", 
+    "CFBundleShortVersionString": "3.0", 
+    "CFBundleVersion": "3.0", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 443637419, 
+    "name": "Racing Penguin, Flying Free - by Top Free Games", 
+    "url_schemes": [
+      "fb411986045557782", 
+      "racingpenguin"
     ]
   }, 
   {
@@ -12995,6 +16173,52 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "TuneIn Radio", 
+    "CFBundleExecutable": "TuneIn Radio", 
+    "CFBundleIdentifier": "com.tunein.TuneInRadio", 
+    "CFBundleVersion": "3.3", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "wifi"
+    ], 
+    "item_id": 418987775, 
+    "name": "TuneIn Radio : Listen to live music, news, talk, sports, and podcasts from around the world", 
+    "url_schemes": [
+      "fb157627720928660free", 
+      "tunein", 
+      "tuneinfree"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "TuneIn Radio", 
+    "CFBundleExecutable": "TuneIn Radio", 
+    "CFBundleIdentifier": "com.tunein.TuneInRadio", 
+    "CFBundleVersion": "3.7", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "wifi"
+    ], 
+    "item_id": 418987775, 
+    "name": "TuneIn Radio", 
+    "url_schemes": [
+      "com.tunein.TuneInRadio", 
+      "fb157627720928660free", 
+      "fb157627720928660freedirect", 
+      "tunein", 
+      "tuneinfree"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Tungle", 
     "CFBundleExecutable": "Tungle", 
     "CFBundleIdentifier": "com.tungle.tungleapp", 
@@ -13193,6 +16417,42 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "AroundMe", 
+    "CFBundleExecutable": "AroundMe", 
+    "CFBundleIdentifier": "com.tweakersoft.AroundMe", 
+    "CFBundleShortVersionString": "6.1.1", 
+    "CFBundleVersion": "3913", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 290051590, 
+    "name": "AroundMe", 
+    "url_schemes": [
+      "fb123448314320"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "AroundMe", 
+    "CFBundleExecutable": "AroundMe", 
+    "CFBundleIdentifier": "com.tweakersoft.AroundMe", 
+    "CFBundleShortVersionString": "6.1.10", 
+    "CFBundleVersion": "4045", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 290051590, 
+    "name": "AroundMe", 
+    "url_schemes": [
+      "fb123448314320"
+    ]
+  }, 
+  {
     "CFBundleIdentifier": "com.tweetdeck.TweetDeckiPad", 
     "item_id": 364153769, 
     "name": "TweetDeck for iPad", 
@@ -13287,6 +16547,166 @@
     "name": "Horizon.TV", 
     "url_schemes": [
       "fb205974712807131ipad"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "dd-wrt", 
+    "CFBundleExecutable": "dd-wrt", 
+    "CFBundleIdentifier": "com.venderbase.dd-wrt", 
+    "CFBundleShortVersionString": "2.0.8", 
+    "CFBundleVersion": "2.0.8", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 556621431, 
+    "name": "DD-WRT", 
+    "url_schemes": [
+      "dd-wrt"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "dd-wrt HD", 
+    "CFBundleExecutable": "dd-wrt HD", 
+    "CFBundleIdentifier": "com.venderbase.dd-wrt-hd", 
+    "CFBundleShortVersionString": "1.0.5", 
+    "CFBundleVersion": "1.0.5", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 619847966, 
+    "name": "DD-WRT HD", 
+    "url_schemes": [
+      "dd-wrt-hd"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Twist 'n' Slide", 
+    "CFBundleExecutable": "Twist 'n' Slide", 
+    "CFBundleIdentifier": "com.venderbase.iSlide", 
+    "CFBundleShortVersionString": "1.0.3", 
+    "CFBundleVersion": "1.0.3", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 541893240, 
+    "name": "Twist 'n' Slide", 
+    "url_schemes": [
+      "fb455209054509834"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Twist 'n' Slide", 
+    "CFBundleExecutable": "Twist 'n' Slide", 
+    "CFBundleIdentifier": "com.venderbase.iSlide", 
+    "CFBundleShortVersionString": "1.0.5", 
+    "CFBundleVersion": "1.0.5", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 541893240, 
+    "name": "Twist 'n' Slide", 
+    "url_schemes": [
+      "fb455209054509834"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "iSmoke2Much", 
+    "CFBundleExecutable": "iSmoke2Much", 
+    "CFBundleIdentifier": "com.venderbase.iSmoke2Much", 
+    "CFBundleShortVersionString": "1.0.7", 
+    "CFBundleVersion": "1.0.7", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 524964779, 
+    "name": "iSmoke2Much", 
+    "url_schemes": [
+      "fb234512013315783"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "iSmoke2Much", 
+    "CFBundleExecutable": "iSmoke2Much", 
+    "CFBundleIdentifier": "com.venderbase.iSmoke2Much", 
+    "CFBundleShortVersionString": "1.0.8", 
+    "CFBundleVersion": "1.0.8", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 524964779, 
+    "name": "iSmoke2Much", 
+    "url_schemes": [
+      "fb234512013315783"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "viddy", 
+    "CFBundleExecutable": "viddy", 
+    "CFBundleIdentifier": "com.viddy.Viddy", 
+    "CFBundleVersion": "1.9.7", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 426294709, 
+    "name": "Viddy", 
+    "url_schemes": [
+      "Viddy", 
+      "fb125119214225766", 
+      "fb195265293818257", 
+      "gsapi", 
+      "viddyapi"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "viddy", 
+    "CFBundleExecutable": "viddy", 
+    "CFBundleIdentifier": "com.viddy.Viddy", 
+    "CFBundleVersion": "2.5.1", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 426294709, 
+    "name": "Viddy", 
+    "url_schemes": [
+      "Viddy", 
+      "fb125119214225766", 
+      "fb195265293818257", 
+      "gsapi", 
+      "viddyapi"
     ]
   }, 
   {
@@ -13389,6 +16809,27 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Sports Car", 
+    "CFBundleExecutable": "VWSportsCars", 
+    "CFBundleIdentifier": "com.vw.sportscar", 
+    "CFBundleShortVersionString": "2.2", 
+    "CFBundleVersion": "2.2", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 477469043, 
+    "name": "Sports Car Challenge", 
+    "url_schemes": [
+      "wb598761105"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Waze", 
     "CFBundleExecutable": "Waze", 
     "CFBundleIdentifier": "com.waze.iphone", 
@@ -13402,6 +16843,44 @@
     ], 
     "item_id": 323229106, 
     "name": "Waze social GPS traffic & gas", 
+    "url_schemes": [
+      "fb343050668156", 
+      "waze"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Waze", 
+    "CFBundleExecutable": "Waze", 
+    "CFBundleIdentifier": "com.waze.iphone", 
+    "CFBundleShortVersionString": "3.5.3", 
+    "CFBundleVersion": "3.5.3", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 323229106, 
+    "name": "Waze social GPS traffic & gas", 
+    "url_schemes": [
+      "fb343050668156", 
+      "waze"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Waze", 
+    "CFBundleExecutable": "Waze", 
+    "CFBundleIdentifier": "com.waze.iphone", 
+    "CFBundleShortVersionString": "3.7.2", 
+    "CFBundleVersion": "3.7.2", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 323229106, 
+    "name": "Waze Social GPS, Maps & Traffic", 
     "url_schemes": [
       "fb343050668156", 
       "waze"
@@ -13478,6 +16957,71 @@
     "name": "WebEx for iPad", 
     "url_schemes": [
       "wbx"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "WeeMee", 
+    "CFBundleExecutable": "Testflight Build", 
+    "CFBundleIdentifier": "com.weeworld.weemee", 
+    "CFBundleShortVersionString": "2.1.1", 
+    "CFBundleVersion": "135", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 352506978, 
+    "name": "WeeMee Avatar Creator", 
+    "url_schemes": [
+      "fb385390340691", 
+      "weemeeaep", 
+      "wmac", 
+      "wmfg"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "WeeMee", 
+    "CFBundleExecutable": "wmac", 
+    "CFBundleIdentifier": "com.weeworld.weemee", 
+    "CFBundleShortVersionString": "3.0", 
+    "CFBundleVersion": "400", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 352506978, 
+    "name": "WeeMee Avatar Creator", 
+    "url_schemes": [
+      "fb385390340691", 
+      "weemeeaep", 
+      "wmac", 
+      "wmfg"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "William Hill", 
+    "CFBundleExecutable": "WHCC", 
+    "CFBundleIdentifier": "com.williamhill.casinoclub", 
+    "CFBundleShortVersionString": "1.3", 
+    "CFBundleVersion": "1.3", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 559771256, 
+    "name": "Casino Club by William Hill", 
+    "url_schemes": [
+      "fb435712679797620"
     ]
   }, 
   {
@@ -13707,6 +17251,25 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "BKClient", 
+    "CFBundleExecutable": "BKClient", 
+    "CFBundleIdentifier": "com.xyrality.BKClient", 
+    "CFBundleShortVersionString": "2.3.0", 
+    "CFBundleVersion": "1492", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 421864154, 
+    "name": "Lords & Knights - Medieval Strategy MMO", 
+    "url_schemes": [
+      "fb220177808035948", 
+      "l+k"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Flickr", 
     "CFBundleExecutable": "Flickr", 
     "CFBundleIdentifier": "com.yahoo.flickr", 
@@ -13768,6 +17331,27 @@
     "name": "Flickr", 
     "url_schemes": [
       "flickr"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Yapert", 
+    "CFBundleExecutable": "Yapert", 
+    "CFBundleIdentifier": "com.yapert", 
+    "CFBundleShortVersionString": "1.3.1", 
+    "CFBundleVersion": "1.3.1", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.1", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 566383094, 
+    "name": "Yapert: Celebrities, Musicians, Athletes and more!", 
+    "url_schemes": [
+      "fb289653991140120", 
+      "yapert"
     ]
   }, 
   {
@@ -14008,6 +17592,81 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "PayPal", 
+    "CFBundleExecutable": "PayPal", 
+    "CFBundleIdentifier": "com.yourcompany.PPClient", 
+    "CFBundleShortVersionString": "4.5.0", 
+    "CFBundleVersion": "4.5.0", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 283646709, 
+    "name": "PayPal", 
+    "url_schemes": [
+      "paypal", 
+      "paypal-local-search", 
+      "ppclient"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "PayPal", 
+    "CFBundleExecutable": "PayPal", 
+    "CFBundleIdentifier": "com.yourcompany.PPClient", 
+    "CFBundleShortVersionString": "4.6.1", 
+    "CFBundleVersion": "4.6.1", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 283646709, 
+    "name": "PayPal", 
+    "url_schemes": [
+      "paypal", 
+      "paypal-local-search", 
+      "ppclient"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "AccuWeather", 
+    "CFBundleExecutable": "AccuWeather", 
+    "CFBundleIdentifier": "com.yourcompany.TestWithCustomTabs", 
+    "CFBundleShortVersionString": "5.5", 
+    "CFBundleVersion": "5.5", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 300048137, 
+    "name": "AccuWeather for iPhone", 
+    "url_schemes": [
+      "fb263111297051918"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "AccuWeather", 
+    "CFBundleExecutable": "AccuWeather", 
+    "CFBundleIdentifier": "com.yourcompany.TestWithCustomTabs", 
+    "CFBundleShortVersionString": "6.0.3", 
+    "CFBundleVersion": "6.0.3", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 300048137, 
+    "name": "AccuWeather - Weather for Life", 
+    "url_schemes": [
+      "fb263111297051918"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "MetalStorm", 
     "CFBundleExecutable": "MetalStorm", 
     "CFBundleIdentifier": "com.z2live.modernAirCombat", 
@@ -14028,6 +17687,48 @@
       "dogfightonline", 
       "fb192743087435929", 
       "metalstorm"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Zen Pinball", 
+    "CFBundleExecutable": "yap", 
+    "CFBundleIdentifier": "com.zenstudios.newzenpinball", 
+    "CFBundleShortVersionString": "1.11", 
+    "CFBundleVersion": "3", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "opengles-2"
+    ], 
+    "item_id": 465694275, 
+    "name": "Zen Pinball", 
+    "url_schemes": [
+      "fb511254745578206"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Zenia", 
+    "CFBundleExecutable": "Zenia", 
+    "CFBundleIdentifier": "com.zhurosoft.aotk", 
+    "CFBundleVersion": "1.5.0", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": {
+      "accelerometer": true, 
+      "opengles-1": true
+    }, 
+    "item_id": 577170954, 
+    "name": "Zenia - Age of the Dragon King", 
+    "url_schemes": [
+      "fb132308946972030"
     ]
   }, 
   {
@@ -15136,6 +18837,24 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "dreaMote Lite", 
+    "CFBundleExecutable": "dreaMoteLite", 
+    "CFBundleIdentifier": "de.ritzmo.dreaMoteLite", 
+    "CFBundleVersion": "1.1.13", 
+    "DTPlatformVersion": "5.0", 
+    "MinimumOSVersion": "3.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 420498819, 
+    "name": "dreaMote Lite", 
+    "url_schemes": [
+      "dreaMoteLite", 
+      "fb295010283843192lite"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "eZConf", 
     "CFBundleExecutable": "eZConf", 
     "CFBundleIdentifier": "de.silversolutions.ezsummer2010", 
@@ -15602,6 +19321,24 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Bingo by GD", 
+    "CFBundleExecutable": "bingo", 
+    "CFBundleIdentifier": "eu.ganymede.GameDesireBingoHD", 
+    "CFBundleShortVersionString": "2.0", 
+    "CFBundleVersion": "2.0", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 494250215, 
+    "name": "Bingo by GameDesire", 
+    "url_schemes": [
+      "fb339991832707937"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "textunes", 
     "CFBundleExecutable": "TextunesReader", 
     "CFBundleIdentifier": "eu.textunes.Reader", 
@@ -15763,6 +19500,27 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Live Chess", 
+    "CFBundleExecutable": "Live Chess", 
+    "CFBundleIdentifier": "jp.co.dreamonline.livechess", 
+    "CFBundleShortVersionString": "1.3.3", 
+    "CFBundleVersion": "1.3.3", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 392885979, 
+    "name": "Live Chess", 
+    "url_schemes": [
+      "LiveChess"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "NervSounds", 
     "CFBundleExecutable": "NervSounds", 
     "CFBundleIdentifier": "jp.co.valup.NervSounds", 
@@ -15776,6 +19534,69 @@
     "name": "NervSounds", 
     "url_schemes": [
       "nervSounds"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Knights", 
+    "CFBundleExecutable": "greeapp3179", 
+    "CFBundleIdentifier": "jp.gree.greeapp3179", 
+    "CFBundleShortVersionString": "1.3.1", 
+    "CFBundleVersion": "25414", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 539793374, 
+    "name": "Knights & Dragons (Free RPG)", 
+    "url_schemes": [
+      "ADX1296", 
+      "fb447418765277620", 
+      "greeapp57873", 
+      "greesso57873"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Monster", 
+    "CFBundleExecutable": "Monster Quest", 
+    "CFBundleIdentifier": "jp.gree.monsterage", 
+    "CFBundleShortVersionString": "1.3.4", 
+    "CFBundleVersion": "134", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "opengles-2", 
+      "armv7"
+    ], 
+    "item_id": 546396479, 
+    "name": "Monster Quest\u2122", 
+    "url_schemes": [
+      "fb467893093251452", 
+      "monsterage"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Nations", 
+    "CFBundleExecutable": "HCGame", 
+    "CFBundleIdentifier": "jp.gree.warofnations", 
+    "CFBundleShortVersionString": "1.0.9", 
+    "CFBundleVersion": "109", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 568212992, 
+    "name": "War of Nations\u2122", 
+    "url_schemes": [
+      "adx11081", 
+      "warofnations"
     ]
   }, 
   {
@@ -15937,6 +19758,60 @@
     "url_schemes": [
       "x-infinitelabs-diceshaker", 
       "x-service-public.diceroll"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Boxcar", 
+    "CFBundleExecutable": "Boxcar", 
+    "CFBundleIdentifier": "net.jdg.Boxcar", 
+    "CFBundleShortVersionString": "4.2.1", 
+    "CFBundleVersion": "4.2.1", 
+    "DTPlatformVersion": "4.3", 
+    "MinimumOSVersion": "3.2", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 321493542, 
+    "name": "Boxcar", 
+    "url_schemes": [
+      "boxcar"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Z.Tsunami", 
+    "CFBundleExecutable": "Z.Tsunami", 
+    "CFBundleIdentifier": "net.mobigame.ZombieCarnaval", 
+    "CFBundleShortVersionString": "1.3.2", 
+    "CFBundleVersion": "1.3.2", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 529652920, 
+    "name": "Zombie Tsunami", 
+    "url_schemes": [
+      "fb420980821284758"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Z.Tsunami", 
+    "CFBundleExecutable": "Z.Tsunami", 
+    "CFBundleIdentifier": "net.mobigame.ZombieCarnaval", 
+    "CFBundleShortVersionString": "1.5.0", 
+    "CFBundleVersion": "1.5.0", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 529652920, 
+    "name": "Zombie Tsunami", 
+    "url_schemes": [
+      "fb420980821284758"
     ]
   }, 
   {
@@ -16177,6 +20052,42 @@
     "name": "Skyscanner All flights, everywhere!", 
     "url_schemes": [
       "fb111774748922919"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "TimeLapse", 
+    "CFBundleExecutable": "TimeLapse", 
+    "CFBundleIdentifier": "net.xyster.TimeLapse-free", 
+    "CFBundleShortVersionString": "5.4.3", 
+    "CFBundleVersion": "5.4.3", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 312286984, 
+    "name": "TimeLapse - Free", 
+    "url_schemes": [
+      "cine312286984"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "TimeLapse", 
+    "CFBundleExecutable": "TimeLapse", 
+    "CFBundleIdentifier": "net.xyster.TimeLapse-free", 
+    "CFBundleShortVersionString": "5.6", 
+    "CFBundleVersion": "5.6", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.1", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 312286984, 
+    "name": "TimeLapse - Free", 
+    "url_schemes": [
+      "cine312286984", 
+      "timelapse"
     ]
   }, 
   {
@@ -16448,6 +20359,42 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Wikipedia", 
+    "CFBundleExecutable": "Wikipedia-iOS", 
+    "CFBundleIdentifier": "org.wikimedia.wikipedia", 
+    "CFBundleShortVersionString": "3.3", 
+    "CFBundleVersion": "3.3", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 324715238, 
+    "name": "Wikipedia Mobile", 
+    "url_schemes": [
+      "fb101576436642564"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Wikipedia", 
+    "CFBundleExecutable": "Wikipedia-iOS", 
+    "CFBundleIdentifier": "org.wikimedia.wikipedia", 
+    "CFBundleShortVersionString": "3.3.1", 
+    "CFBundleVersion": "3.3.1", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 324715238, 
+    "name": "Wikipedia Mobile", 
+    "url_schemes": [
+      "fb101576436642564"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "WordPress", 
     "CFBundleExecutable": "WordPress", 
     "CFBundleIdentifier": "org.wordpress", 
@@ -16540,6 +20487,27 @@
     "url_schemes": [
       "fb274266067164", 
       "pinterest"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Can Knockdown", 
+    "CFBundleExecutable": "CanKnockdown", 
+    "CFBundleIdentifier": "pl.idreams.CanKnockdown", 
+    "CFBundleVersion": "1.31", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7", 
+      "opengles-2"
+    ], 
+    "item_id": 407255671, 
+    "name": "Can Knockdown", 
+    "url_schemes": [
+      "fb208082439215773"
     ]
   }, 
   {
@@ -16962,6 +20930,44 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Justin.tv", 
+    "CFBundleExecutable": "Justin.tv", 
+    "CFBundleIdentifier": "tv.justin.player", 
+    "CFBundleShortVersionString": "3.7.6", 
+    "CFBundleVersion": "3.7.6", 
+    "DTPlatformVersion": "5.1", 
+    "MinimumOSVersion": "4.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 358612216, 
+    "name": "Justin.tv", 
+    "url_schemes": [
+      "jtv", 
+      "justin.tv", 
+      "x-jtv"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Justin.tv", 
+    "CFBundleExecutable": "Justin.tv", 
+    "CFBundleIdentifier": "tv.justin.player", 
+    "CFBundleShortVersionString": "3.7.9", 
+    "CFBundleVersion": "3.7.9", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 358612216, 
+    "name": "Justin.tv", 
+    "url_schemes": [
+      "jtv", 
+      "justin.tv", 
+      "x-jtv"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Bible", 
     "CFBundleExecutable": "Bible", 
     "CFBundleIdentifier": "tv.lifechurch.bible", 
@@ -17065,11 +21071,48 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Bible", 
+    "CFBundleExecutable": "Bible", 
+    "CFBundleIdentifier": "tv.lifechurch.bible", 
+    "CFBundleVersion": "4.3.4", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 282935706, 
+    "name": "Bible", 
+    "url_schemes": [
+      "fb117344358296665", 
+      "fb352439674803742", 
+      "youversion"
+    ]
+  }, 
+  {
     "CFBundleDisplayName": "Ustream", 
     "CFBundleExecutable": "UStreamPlayer", 
     "CFBundleIdentifier": "tv.ustream.player", 
     "CFBundleVersion": "2.3.2", 
     "DTPlatformVersion": "5.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 301520250, 
+    "name": "Ustream", 
+    "url_schemes": [
+      "fb123875465478", 
+      "ustream"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Ustream", 
+    "CFBundleExecutable": "UStreamPlayer", 
+    "CFBundleIdentifier": "tv.ustream.player", 
+    "CFBundleVersion": "2.3.3", 
+    "DTPlatformVersion": "6.1", 
     "MinimumOSVersion": "4.3", 
     "UIDeviceFamily": [
       1, 
@@ -17164,6 +21207,39 @@
     ]
   }, 
   {
+    "CFBundleDisplayName": "Argos", 
+    "CFBundleExecutable": "SC4", 
+    "CFBundleIdentifier": "uk.co.argos.argosapp", 
+    "CFBundleShortVersionString": "1.5.1", 
+    "CFBundleVersion": "019", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 370371087, 
+    "name": "Argos", 
+    "url_schemes": [
+      "fb157034567684091argos"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Argos", 
+    "CFBundleExecutable": "SC4", 
+    "CFBundleIdentifier": "uk.co.argos.argosapp", 
+    "CFBundleVersion": "3.1", 
+    "DTPlatformVersion": "5.1", 
+    "MinimumOSVersion": "4.2", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 370371087, 
+    "name": "Argos", 
+    "url_schemes": [
+      "fb157034567684091argos"
+    ]
+  }, 
+  {
     "CFBundleIdentifier": "uk.co.bbc.news", 
     "CFBundleShortVersionString": "1.7.5", 
     "CFBundleVersion": "1.7.5", 
@@ -17189,6 +21265,115 @@
     "name": "BBC News", 
     "url_schemes": [
       "fb252151941506000"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "4oD", 
+    "CFBundleExecutable": "C4oD_iPad", 
+    "CFBundleIdentifier": "uk.co.channel4.ios.4od", 
+    "CFBundleVersion": "2.5.1", 
+    "DTPlatformVersion": "5.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 432494037, 
+    "name": "4oD", 
+    "url_schemes": [
+      "c4-4od"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "4oD", 
+    "CFBundleExecutable": "C4oD_iPad", 
+    "CFBundleIdentifier": "uk.co.channel4.ios.4od", 
+    "CFBundleShortVersionString": "2.6", 
+    "CFBundleVersion": "2.6", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 432494037, 
+    "name": "4oD", 
+    "url_schemes": [
+      "c4-4od"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "O2 Moments", 
+    "CFBundleExecutable": "O2PriorityMoments", 
+    "CFBundleIdentifier": "uk.co.o2.ios.moments", 
+    "CFBundleShortVersionString": "1.9.6", 
+    "CFBundleVersion": "1.11.4", 
+    "DTPlatformVersion": "5.1", 
+    "MinimumOSVersion": "4.2", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 443900190, 
+    "name": "O2 Priority Moments", 
+    "url_schemes": [
+      "o2pm"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "O2 Moments", 
+    "CFBundleExecutable": "O2PriorityMoments", 
+    "CFBundleIdentifier": "uk.co.o2.ios.moments", 
+    "CFBundleShortVersionString": "1.10.0", 
+    "CFBundleVersion": "1.11.8", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "item_id": 443900190, 
+    "name": "O2 Priority Moments", 
+    "url_schemes": [
+      "o2pm"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "My O2", 
+    "CFBundleExecutable": "My O2", 
+    "CFBundleIdentifier": "uk.co.o2.myo2", 
+    "CFBundleShortVersionString": "4.1", 
+    "CFBundleVersion": "4.1", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 325533754, 
+    "name": "My O2", 
+    "url_schemes": [
+      "myo2"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "LadyLucks", 
+    "CFBundleExecutable": "LadyLucks", 
+    "CFBundleIdentifier": "uk.co.probability.LadyLucks", 
+    "CFBundleShortVersionString": "1.7.0", 
+    "CFBundleVersion": "167", 
+    "DTPlatformVersion": "6.0", 
+    "MinimumOSVersion": "4.3", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "item_id": 410048988, 
+    "name": "LadyLucks Mobile Casino", 
+    "url_schemes": [
+      "ADX1309", 
+      "fb201811186530500", 
+      "pbty"
     ]
   }, 
   {
@@ -17248,6 +21433,27 @@
     "name": "Yammer", 
     "url_schemes": [
       "yammer"
+    ]
+  }, 
+  {
+    "CFBundleDisplayName": "Casino", 
+    "CFBundleExecutable": "WilliamHillCasino", 
+    "CFBundleIdentifier": "WilliamHillCasino", 
+    "CFBundleShortVersionString": "1.31", 
+    "CFBundleVersion": "1.31", 
+    "DTPlatformVersion": "6.1", 
+    "MinimumOSVersion": "5.0", 
+    "UIDeviceFamily": [
+      1, 
+      2
+    ], 
+    "UIRequiredDeviceCapabilities": [
+      "armv7"
+    ], 
+    "item_id": 608389695, 
+    "name": "William Hill Casino", 
+    "url_schemes": [
+      "fb277445449054414"
     ]
   }, 
   {
